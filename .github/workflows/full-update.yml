@@ -52,7 +52,7 @@ jobs:
         git push
 
   sync:
-    if: github.repository == 'privacy-protection-tools/anti-AD'
+    if: github.repository == 'zy-xyz/anti-AD'
     needs: full-build
     runs-on: ubuntu-latest
     steps:
@@ -66,7 +66,7 @@ jobs:
       uses: actions/checkout@v4
       with:
         token: ${{ secrets.PERSON_TOKEN }}
-        repository: privacy-protection-tools/anti-ad.github.io
+        repository: zy-xyz/anti-ad.github.io
         ref: master
         path: website
 
