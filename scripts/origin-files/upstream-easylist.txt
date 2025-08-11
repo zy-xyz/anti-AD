@@ -1,4 +1,4 @@
-! easylist-0 2025-08-11 02:43:31 UTC
+! easylist-0 2025-08-11 02:57:38 UTC
 ! https://easylist-downloads.adblockplus.org/easylist.txt
 @@||accounts.google.com^$popup
 @@||ads.atmosphere.copernicus.eu^$popup
@@ -6941,6 +6941,7 @@
 ||brighteroption.com^
 ||brightforesthill.com^
 ||brightlybore.com^
+||brightlygauntlet.com^
 ||brightonclick.com^
 ||brightruin.pro^
 ||brightshare.com^
@@ -7177,6 +7178,7 @@
 ||bumpertenets.help^
 ||bumpieropaline.com^
 ||bumpkinsesban.digital^
+||bumpy-beyond.com^
 ||bumq.com^$third-party
 ||bumskontakte.ch^$third-party
 ||bumstalabon.shop^
@@ -8377,6 +8379,7 @@
 ||chlziaue.xyz^
 ||chmnebon.top^
 ||chnkgnctdimfu.space^
+||chnxqbjoodzxn.site^
 ||chnydwnjhqbsb.space^
 ||choacoungoagn.net^
 ||choalsaitche.com^
@@ -21323,6 +21326,7 @@
 ||kektds.com^$popup
 ||kelekkraits.com^
 ||keliabura.digital^
+||kellyfist.shop^
 ||kelopronto.com^
 ||kelpiesregna.com^
 ||kelpingarise.shop^
@@ -24102,6 +24106,7 @@
 ||meagplin.com^
 ||mealy-bad.pro^
 ||mealyease.pro^
+||meaninglessoccasionalrevision.com^
 ||meansneverhorrid.com^
 ||meantimenourishclothes.com^
 ||measly-buyer.pro^
@@ -26697,6 +26702,7 @@
 ||oamtaunair.com^
 ||oamtoodsulruda.com^
 ||oanimsen.net^
+||oansoughaums.net^
 ||oaocrxsgsemdg.love^
 ||oapauphoaltaje.net^
 ||oaphoace.net^
@@ -43302,7 +43308,7 @@
 ||zzzjhkyprpsvl.store^
 ||zzzjvqzmkamlb.top^
 ||zzzjvqzmkazvo.top^
-! easylist-1 2025-08-11 02:43:32 UTC
+! easylist-1 2025-08-11 02:57:40 UTC
 ! https://filters.adtidy.org/windows/filters/224_optimized.txt
 @@||ad.10010.com^
 @@||ad.abchina.com^
@@ -48718,7 +48724,7 @@
 ||zzad.com^$third-party
 ||zzohucf.icu^
 ||zztxfj.xyz^
-! easylist-2 2025-08-11 02:43:32 UTC
+! easylist-2 2025-08-11 02:57:42 UTC
 ! https://raw.githubusercontent.com/cjx82630/cjxlist/master/cjx-annoyance.txt
 ||2005net.net^$third-party
 ||3jia5.com^$third-party
@@ -48875,7 +48881,7 @@
 ||zndsssp.dangbei.net^
 ||zoosnet.net^$third-party
 ||zoossoft.cn^$third-party
-! easylist-3 2025-08-11 02:43:32 UTC
+! easylist-3 2025-08-11 02:57:42 UTC
 ! https://easylist.to/easylist/fanboy-annoyance.txt
 @@||aainflight.com^
 @@||ahaan.co.uk^$~third-party,xmlhttprequest
@@ -49796,7 +49802,7 @@
 ||zfacts.com^$third-party
 ||zgody.infor.pl^
 ||zoomanalytics.co^$third-party
-! easylist-4 2025-08-11 02:43:33 UTC
+! easylist-4 2025-08-11 02:57:42 UTC
 ! https://easylist.to/easylist/easyprivacy.txt
 @@||analytics.amplitude.com^$~third-party
 @@||analytics.itunes.apple.com^$~third-party
@@ -95668,7 +95674,7 @@
 ||zzaoea.costacrociere.it^
 ||zzqyxd.smartpozyczka.pl^
 ||zzsqqx.shopjapan.co.jp^
-! easylist-5 2025-08-11 02:43:33 UTC
+! easylist-5 2025-08-11 02:57:43 UTC
 ! https://raw.githubusercontent.com/banbendalao/ADgk/master/ADgk.txt
 @@||17173im.allyes.com^
 @@||ad-gone.com^
@@ -98909,7 +98915,7 @@
 ||zzhengyuli.com^
 ||zzm.cn^
 ||zzyanhushi.com^
-! easylist-6 2025-08-11 02:43:34 UTC
+! easylist-6 2025-08-11 02:57:43 UTC
 ! https://raw.githubusercontent.com/TG-Twilight/AWAvenue-Ads-Rule/main/AWAvenue-Ads-Rule.txt
 ||1500020991.vodplayer.wxamedia.com^
 ||1500022744.vodplayer.wxamedia.com^
