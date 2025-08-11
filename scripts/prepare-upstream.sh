@@ -19,6 +19,7 @@ easylist=(
 )
 hosts=(
 	'https://malware-filter.gitlab.io/malware-filter/urlhaus-filter-hosts-online.txt'
+ 	'https://raw.githubusercontent.com/lingeringsound/10007/main/all'
 	'https://raw.githubusercontent.com/jdlingyu/ad-wars/master/hosts'
 	'https://raw.githubusercontent.com/crazy-max/WindowsSpyBlocker/master/data/hosts/spy.txt'
  	'https://easylist-downloads.adblockplus.org/antiadblockfilters.txt'
