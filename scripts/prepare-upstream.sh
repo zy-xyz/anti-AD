@@ -97,7 +97,7 @@ Hosts-Processer() {
 for i in "${!hosts[@]}"; do
 	echo "Start to download hosts-${i}..."
 	tMark="$(date +'%Y-%m-%d %H:%M:%S %Z')"
-	curl -o "./raw-sources/hosts-${i}.txt" --connect-timeout 60 -s "${hosts[$i]}"
+	curl -o "./raw-sources/hosts-${i}.txt" --connect-timeout 60 -s "${hosts[$i]}"  || true
 	echo -e "# hosts-${i} $tMark\n# ${hosts[$i]}" >>./origin-files/upstream-hosts.txt
 	tr -d '\r' <"./raw-sources/hosts-${i}.txt" | Hosts-Processer >>./origin-files/upstream-hosts.txt
 done
