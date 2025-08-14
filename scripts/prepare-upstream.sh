@@ -127,7 +127,7 @@ V2Fly_DLC_URL='https://github.com/v2fly/domain-list-community/archive/master.tar
 for i in "${!easylist[@]}"; do
 	echo "Start to download easylist-${i}..."
 	tMark="$(date +'%Y-%m-%d %H:%M:%S %Z')"
-	curl -o "./raw-sources/easylist-${i}.txt" --connect-timeout 60 -s "${easylist[$i]}"
+	curl -o "./raw-sources/easylist-${i}.txt" --connect-timeout 60 -s "${easylist[$i]}" || true
 	echo -e "! easylist-${i} $tMark\n! ${easylist[$i]}" >>./origin-files/upstream-easylist.txt
 	tr -d '\r' <"./raw-sources/easylist-${i}.txt" |
 		grep -E '^(@@)?\|\|?[a-zA-Z0-9\.\*-]+\.[a-zA-Z\*]+\^(\$[^=]+)?$' |
