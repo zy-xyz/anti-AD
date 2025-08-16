@@ -6,6 +6,7 @@
 @@||accounts.login.idm.telekom.com^$stealth
 @@||acid2.acidtests.org^$document
 @@||acid3.acidtests.org^$document
+@@||acs.m.taobao.com^
 @@||ad-block.dns.adguard.com^
 @@||ad-gone.com^
 @@||ad-putting.gw.zt-express.com^
@@ -24,6 +25,7 @@
 @@||ad.vivo.com.cn^
 @@||ad.vivo.com.cn^$~third-party
 @@||adashx.ut.dingtalk.com^
+@@||adblock.adguard.com^
 @@||adcdn.pingan.com^
 @@||adguard.com^$stealth
 @@||adguardpartner.com^$generichide,genericblock
@@ -76,6 +78,7 @@
 @@||ads.x.com^$popup
 @@||adsense.woso.cn^$~third-party
 @@||adv.asahi.com^$popup
+@@||adv.bloop.info^
 @@||adv.gg^$popup
 @@||adv.lack-girl.com^$popup
 @@||adv.welaika.com^$popup
@@ -92,6 +95,7 @@
 @@||analytics.amplitude.com^$~third-party
 @@||analytics.itunes.apple.com^
 @@||analytics.itunes.apple.com^$~third-party
+@@||ap6.ssl.msdk.qq.com^
 @@||api-analytics.magstimconnect.net^$~third-party
 @@||api.ads.tvb.com^
 @@||api.bitwarden.com^$stealth
@@ -107,6 +111,7 @@
 @@||app.clarity.so^$~third-party
 @@||app.datapacket.com^$content
 @@||app.impact.com^$jsinject,elemhide,extension
+@@||app.message.sonicwall.com^
 @@||app.plex.tv^$extension
 @@||app.powerbi.com^
 @@||app.sendgrid.com^$elemhide,jsinject
@@ -115,6 +120,7 @@
 @@||auth.gfx.ms^$document
 @@||autocomplete.clearbit.com^
 @@||autocomplete.clearbit.com^$xmlhttprequest
+@@||banner.dna.fi^
 @@||baozhang.baidu.com^
 @@||battle.net^
 @@||bdad.123pan.cn^
@@ -124,12 +130,17 @@
 @@||blackcircles.ca^$script,~third-party
 @@||blubroid.de^
 @@||bnet.163.com^
+@@||broadcastlv.chat.bilibili.com^
 @@||browser.cloud.ucweb.com^
 @@||buyad.bi-xenon.cn^
+@@||c.y.qq.com^
 @@||captcha-delivery.com^$stealth
+@@||captcha-delivery.com^$subdocument,extension
 @@||captcha.su.baidu.com^
 @@||cbsi.map.fastly.net^
+@@||cdi.ofiii.com^
 @@||cdn-fck.tnaflix.com^$removeparam
+@@||cdn.bootcdn.net^
 @@||cdn.cnbj1.fds.api.mi-img.com^$important
 @@||cdn.datatables.net^
 @@||cdnvideo.ru^$stealth
@@ -139,6 +150,7 @@
 @@||channel4.com^$stealth
 @@||chart-embed.service.newrelic.com^
 @@||chart-embed.service.newrelic.com^$subdocument,xmlhttprequest
+@@||chaturbate.com^
 @@||chaynikam.info^$removeparam
 @@||checkout.paddle.com^$elemhide,jsinject,content
 @@||chicksonright.com^$csp,~third-party
@@ -149,6 +161,7 @@
 @@||cloud.mail.ru^$image,~third-party
 @@||cmechina.net^$genericblock
 @@||cn.register.xmpush.xiaomi.com^$important
+@@||cnlogin.cainiao.com^
 @@||code.sms.mob.com^
 @@||comcast.net^$stealth
 @@||comci.net^$stealth
@@ -161,14 +174,18 @@
 @@||counter-strike.net^
 @@||crazygames.com^$content
 @@||cre.dp.sina.cn^
+@@||cstaticdun.126.net^
 @@||dashboard.jwplayer.com^$document
 @@||dashboard.mgid.com^$popup
 @@||dashboard.wedare.pl^$removeparam
+@@||data.sec.miui.com^
 @@||datawrapper.dwcdn.net^$jsinject
 @@||deadshot.io^$stealth
+@@||developers.google.com^
 @@||discretemath.org^$image,stylesheet
 @@||disneyplus.com^$generichide,badfilter
 @@||django-cookie-consent.readthedocs.io^$~third-party
+@@||dl.reg.163.com^
 @@||dnsleaktest.com^$content,elemhide,jsinject
 @@||dood.watch^$subdocument
 @@||dostavista.ru^$stealth
@@ -207,7 +224,9 @@
 @@||filmweb.pl^$elemhide,important
 @@||filmweb.pl^$generichide,badfilter
 @@||findernet.com^$content
+@@||fino.svc.litv.tv^
 @@||forums.windowscentral.com^$script,~third-party
+@@||fp-it.fengkongcloud.com^
 @@||freeplayervideo.com^$subdocument
 @@||front-go.lemall.com^
 @@||ftp.bmp.ovh^
@@ -219,6 +238,7 @@
 @@||gk.sina.cn^
 @@||global.localizecdn.com^$elemhide,jsinject,content
 @@||gls-group.eu^$extension
+@@||gma.alicdn.com^
 @@||go.redirectingat.com^$document
 @@||gogoplay5.com^$subdocument
 @@||gomoplayer.com^$subdocument
@@ -228,6 +248,10 @@
 @@||hanjubaike.com^$script,~third-party
 @@||hanjuwang.com^$script,~third-party
 @@||hanjuwang.net^$script,~third-party
+@@||hbbtv.kika.de^
+@@||hbbtv.prosieben.de^
+@@||hbbtv.redbutton.de^
+@@||hbbtv.zdf.de^
 @@||hbogo.pl^$extension
 @@||help.ea.com^$stealth
 @@||history.com^$generichide,badfilter
@@ -245,7 +269,9 @@
 @@||images.voyageforum.com^$image
 @@||img.ads.tvb.com^
 @@||imgtn.bdimg.com^$stealth
+@@||inews.gtimg.com^
 @@||inflight.pacwisp.net^
+@@||infolink.pavv.co.kr^
 @@||ingdirect.com.au^$document
 @@||injections.adguard.com^$document
 @@||inoreader.com^$genericblock,generichide
@@ -278,11 +304,13 @@
 @@||logo.clearbit.com^$image,third-party
 @@||logowanie.play.pl^$stealth
 @@||ltzn.9377.com^
+@@||m.ctrip.com^
 @@||m.jd.com^
 @@||mangapark.net^$image
 @@||manwa.me^
 @@||marketplace.xbox.com^$document
 @@||mediacdn.disqus.com^$document
+@@||mediamarkt.com.tr^$genericblock
 @@||mediamarkt.nl^$other
 @@||megane.com.pl^$generichide,badfilter
 @@||megaxh.com^$script,~third-party
@@ -291,10 +319,15 @@
 @@||metrics.icloud.com^
 @@||metrics.torproject.org^
 @@||metrics.vrch.at^
+@@||mhc-ajax-eu-s2.myhomescreen.tv^
+@@||mhc-ajax-eu.myhomescreen.tv^
+@@||mhc-xpana-eu-s2.myhomescreen.tv^
+@@||mhc-xpana-eu.myhomescreen.tv^
 @@||mi.cn^
 @@||miaozhen.com^$~third-party
 @@||microsoftazuresponsorships.com^
 @@||minigame.qq.com^
+@@||minorshort.weixin.qq.com^
 @@||mix.sina.com.cn^
 @@||mobdisc.com^$stealth
 @@||msn.wrating.com^
@@ -307,8 +340,10 @@
 @@||noizz.pl^$generichide,badfilter
 @@||ny.gov^$stealth
 @@||oa.tr.line.me^$document
+@@||oauth-login-drcn.platform.dbankcloud.com^
 @@||ondemand.sas.com^$subdocument
 @@||onet.pl^$generichide,badfilter
+@@||onl.bz^
 @@||online.cosmosbank.in^$document
 @@||openxlab.org.cn^
 @@||optout.networkadvertising.org^$document
@@ -328,6 +363,7 @@
 @@||phs.tanx.com^
 @@||pic-tv6s.4p68.com^
 @@||pic.iask.cn^
+@@||pics.porn300.com^
 @@||pics.porndroids.com^
 @@||pilet.elron.ee^$extension
 @@||pilot.wp.pl^$generichide,badfilter
@@ -342,6 +378,8 @@
 @@||proton.me^$cookie
 @@||publisher.adservice.com^$document
 @@||puma.112.2o7.net^
+@@||puui.qpic.cn^
+@@||qlogo.cn^
 @@||radar.cloudflare.com^$elemhide,extension,content
 @@||realtime-chart.info^$script,stealth
 @@||redactor.creatium.io^$document
@@ -351,6 +389,7 @@
 @@||redirect.disqus.com^
 @@||registrierung.gmx.net^$stealth
 @@||registrierung.web.de^$stealth
+@@||reports.adguard.com^
 @@||rmfon.pl^$stealth
 @@||rocket.chat^
 @@||router.asus.com^$document
@@ -359,6 +398,7 @@
 @@||runescape.wiki^$image,~third-party
 @@||s.click.taobao.com^$popup
 @@||s.mvconf.f.360.cn^
+@@||s.optnx.com^
 @@||s1.wp.com^
 @@||sandbox.cryptpad.info^$elemhide,jsinject,content,extension
 @@||sax.sina.com.cn^
@@ -367,7 +407,9 @@
 @@||sdkapi.sms.mob.com^
 @@||senseoflaw.com^$stealth
 @@||settings-win.data.microsoft.com^
+@@||sgqcvfjvr.onet.pl^
 @@||sgtm.farmasave.it^$script,~third-party
+@@||shminorshort.weixin.qq.com^
 @@||simkl.com^$xmlhttprequest,elemhide,jsinject,extension
 @@||simplelogin.io^$cookie
 @@||siteanalytics.compete.com^$~third-party
@@ -377,6 +419,7 @@
 @@||sl-tk.oray.com^$important
 @@||slacker.com^$xmlhttprequest
 @@||smallseotools.com^$generichide,badfilter
+@@||smartstore.naver.com^$stealth
 @@||sobot.com^
 @@||software.seek.intel.com^$document
 @@||sonichits.com^$generichide,badfilter
@@ -396,6 +439,7 @@
 @@||succeedscene.com^
 @@||succeedscene.com^$script
 @@||suggestions.dadata.ru^$stealth
+@@||support.weixin.qq.com^
 @@||swedbank.ee^$document
 @@||swjoy.com^
 @@||sync.everhelper.me^$stealth
@@ -419,6 +463,7 @@
 @@||torproject.org^
 @@||tpc.googlesyndication.com^$script,~third-party
 @@||track2.royalmail.com^
+@@||tracker.ai.xiaomi.com^
 @@||tracker.eu.org^
 @@||tracker.namitiyu.com^
 @@||trackjs.com^$~third-party
@@ -449,12 +494,14 @@
 @@||vivo.sx^$stealth
 @@||vk.payservice.io^$stealth
 @@||vodafonelimited.tt.omtrdc.net^
+@@||waimai-guide.ele.me^
 @@||walla.co.il^$csp
 @@||wan.douyu.com^
 @@||ware.shop.jd.com^$genericblock,generichide
 @@||web.any.do^$document
 @@||webstatic.nero.com^
 @@||webtrack.dhlglobalmail.com^
+@@||webzjcaptcha.reg.163.com^
 @@||wechat.ishare.iask.com.cn^
 @@||whatsapp.com^$generichide,badfilter
 @@||widget.1688.com^
@@ -464,6 +511,7 @@
 @@||widget.rave.office.net^
 @@||widget.sndcdn.com^
 @@||widget.weibo.com^
+@@||wl.jd.com^
 @@||wp.pl^$script,image
 @@||wsr.pearsonvue.com^$extension
 @@||www.dobreprogramy.pl^$generichide,badfilter
@@ -495,4 +543,5 @@
 @@||ytlarge.com^$script,subdocument,xmlhttprequest,~third-party
 @@||yyfweb.postar.cn^
 @@||zbj.com^
+@@||zhuti.xiaomi.com^
 @@||zombicide.com^$stealth

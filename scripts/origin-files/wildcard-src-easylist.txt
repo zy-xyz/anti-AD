@@ -14,9 +14,13 @@
 ||*-analytics*.huami.com^
 ||*-applog.fqnovel.com^
 ||*-datareceiver.aki-game.net^
+||*.diwodiwo.xyz^
 ||*.exaapi.com^
 ||*.mmstat.com^
+||*.p2p.huya.com^
+||*.va.huya.com^
 ||*.wap.xsbiquge.com^
+||*adapt-beacon.awsprodops.movetv.com^
 ||*cdn-settings.appsflyersdk.com^
 ||*conversions.appsflyersdk.com^
 ||*customstat*.51togic.com^
@@ -43,6 +47,8 @@
 ||ac*.786ip.com^
 ||ac*.faxingchina.com^
 ||ac*.pingguolv.com^
+||access*.tpns.tencent.com^
+||access.pangolin-sdk-toutiao-*.com^
 ||acr-*-prd.samsungcloud.tv^
 ||ad*.bilgin.pro^
 ||ad*.ettoday.net^
@@ -149,6 +155,8 @@
 ||api*.moengage.com^
 ||api-*.bidmachine.io^
 ||api-*.hismarttv.com^
+||api-access.pangolin-sdk-toutiao-*.com^
+||api.*.hismarttv.com^
 ||api16-access-ttp*.tiktokpangle-b.us^
 ||apiproxy-log-nlb-1f304af4d3ac01a4.elb.us-east-*.amazonaws.com^
 ||app-analytics-*.snapchat.com^
@@ -273,6 +281,7 @@
 ||faro-collector-prod-*.grafana.net^
 ||firebaselogging-*.googleapis.com^
 ||flightzy.*^
+||fls-*.amazon.com^
 ||flurry.agentportal-*.yahoodns.net^
 ||flurry.agentportal.*.yahoodns.net^
 ||fp-*it*.fengkongcloud.com^
@@ -296,6 +305,7 @@
 ||guanggao*.*^
 ||hads*s.com^
 ||hba*.hepsiburada.com^
+||hbbtv.*.de^
 ||hh*.huojiabeijing.org^$document
 ||hn-ping*.hashnode.com^
 ||host*.carl-ras.dk^
@@ -347,6 +357,7 @@
 ||log-*.epicdn.me^
 ||log-*.previewnetworks.com^
 ||log-*.zadn.vn^
+||log-api.pangolin-sdk-toutiao-*.com^
 ||log-va*.capcutapi.com^
 ||log.*.hunantv.com^
 ||logger-*.dailymotion.com^
@@ -455,8 +466,10 @@
 ||rtlog*.tiktokv.us^
 ||rum*.a.trbcdn.net^
 ||rum*.cdnvideo.ru^
+||s*-fe-scm.pglstatp-toutiao.com^
 ||s*.adduplex.com^
 ||s*.skencituer.com^
+||s*a.pstatp.com^
 ||sam*.baby-kingdom.com^
 ||same*.stockstar.com^
 ||sd.s*dad.com^$document
@@ -468,6 +481,8 @@
 ||sense-*.tapdb.net^
 ||sensorsdata*.read.duokan.com^
 ||servo-report.keepstreams.*^
+||sf*-be-pack.pglstatp-toutiao.com^
+||sf*-fe-tos.pglstatp-toutiao.com^
 ||sher.*.hu^
 ||snowplow-collector-*.amazonaws.com^
 ||snowplow-collector-*.amazonaws.com^$third-party
@@ -544,6 +559,7 @@
 ||use-trk*.bluevoox.com^
 ||util-*.simply-hentai.com^
 ||v*-ad.video.yximgs.com^
+||v*-be-pack.pglstatp-toutiao.com^
 ||v*.denakop.com^
 ||v*.qudou100.com^$script
 ||v*.sitecounter.site^
