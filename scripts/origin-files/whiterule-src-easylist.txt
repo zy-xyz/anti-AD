@@ -90,6 +90,8 @@
 @@||ahcdn.com^$media
 @@||ahcdn.xyz^$stealth,media
 @@||aircanada.com^$stealth
+@@||alicdn.com^
+@@||aliexpress-media.com^
 @@||alllaw.112.2o7.net^
 @@||allsport-live.net^$stealth
 @@||analytics.amplitude.com^$~third-party
@@ -268,6 +270,7 @@
 @@||image.coolapk.com^
 @@||images.voyageforum.com^$image
 @@||img.ads.tvb.com^
+@@||img.logo.dev^$image,third-party
 @@||imgtn.bdimg.com^$stealth
 @@||inews.gtimg.com^
 @@||inflight.pacwisp.net^
@@ -300,8 +303,6 @@
 @@||login.mobywatel.gov.pl^$stealth
 @@||login.nvgs.nvidia.com^$stealth
 @@||logitech.com^$content
-@@||logo.clearbit.com^
-@@||logo.clearbit.com^$image,third-party
 @@||logowanie.play.pl^$stealth
 @@||ltzn.9377.com^
 @@||m.ctrip.com^
@@ -430,6 +431,7 @@
 @@||star.fallback.c10r.facebook.com^
 @@||stat.jseea.cn^
 @@||static3.iask.cn^
+@@||stats.britishbaseball.org.uk^
 @@||stats.gov.cn^
 @@||stats.uptimerobot.com^
 @@||steamgamesales.com^$urlblock
