@@ -472,6 +472,7 @@
 @@||tradingview.com^$script,stealth
 @@||transfemscience.org^$document,stealth
 @@||tryit.w3schools.com^$document
+@@||tube.e.kuaishou.com^
 @@||tuhu.cn^
 @@||turramusic.com.au^$xmlhttprequest,elemhide,jsinject,extension
 @@||tv.bili96.co^
