@@ -520,6 +520,7 @@
 ||tag-based.s3.*.amazonaws.com^$third-party
 ||tblog-*.kgslb.com^
 ||telemetry*.transcend.io^
+||telemetry.*.pvp.net^
 ||teleriumads-*.netdna-ssl.com^
 ||teleriumads-*.netdna-ssl.com^$third-party
 ||thezbpe5*.xyz^
