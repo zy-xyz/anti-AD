@@ -22,6 +22,7 @@
 @@||ad.nl^
 @@||ad.ourgame.com^
 @@||ad.siemens.com.cn^
+@@||ad.vivo.com.cn^
 @@||ad.vivo.com.cn^$~third-party
 @@||adashx.ut.dingtalk.com^
 @@||adblock.adguard.com^
@@ -36,6 +37,7 @@
 @@||adnet.qq.com^$~third-party
 @@||adrinolinks.in^$stealth
 @@||ads.95516.com^
+@@||ads.alafish.cn^
 @@||ads.alafish.cn^$~third-party
 @@||ads.atmosphere.copernicus.eu^
 @@||ads.atmosphere.copernicus.eu^$popup
@@ -48,6 +50,7 @@
 @@||ads.finance^$popup
 @@||ads.google.com^
 @@||ads.google.com^$popup
+@@||ads.lingxing.com^
 @@||ads.lingxing.com^$~third-party
 @@||ads.listonic.com^
 @@||ads.listonic.com^$popup
