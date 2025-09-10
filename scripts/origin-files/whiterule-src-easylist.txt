@@ -90,8 +90,6 @@
 @@||ahcdn.com^$media
 @@||ahcdn.xyz^$stealth,media
 @@||aircanada.com^$stealth
-@@||alicdn.com^
-@@||aliexpress-media.com^
 @@||alllaw.112.2o7.net^
 @@||allsport-live.net^$stealth
 @@||analytics.amplitude.com^$~third-party

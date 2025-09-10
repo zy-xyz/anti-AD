@@ -16,6 +16,8 @@
 ||*-datareceiver.aki-game.net^
 ||*.diwodiwo.xyz^
 ||*.exaapi.com^
+||*.libaishuo.com^
+||*.libaishuo.com^$third-party
 ||*.mmstat.com^
 ||*.p2p.huya.com^
 ||*.va.huya.com^
@@ -367,6 +369,7 @@
 ||logs*.smithsonian.museum^$third-party
 ||logs-*.rebxgame.com^
 ||logservice-*.platform.dbankcloud.cn^
+||logstash-*.radio-canada.ca^
 ||lt*.tritondigital.com^
 ||maas-*.phunware.com^
 ||mads*z.com^
