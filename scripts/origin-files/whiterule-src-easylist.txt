@@ -25,6 +25,7 @@
 @@||ad.vivo.com.cn^
 @@||ad.vivo.com.cn^$~third-party
 @@||adashx.ut.dingtalk.com^
+@@||adblock.adguard.com^
 @@||adcdn.pingan.com^
 @@||adguard.com^$stealth
 @@||adguardpartner.com^$generichide,genericblock
@@ -77,6 +78,7 @@
 @@||ads.x.com^$popup
 @@||adsense.woso.cn^$~third-party
 @@||adv.asahi.com^$popup
+@@||adv.bloop.info^
 @@||adv.gg^$popup
 @@||adv.lack-girl.com^$popup
 @@||adv.welaika.com^$popup
@@ -109,6 +111,7 @@
 @@||app.clarity.so^$~third-party
 @@||app.datapacket.com^$content
 @@||app.impact.com^$jsinject,elemhide,extension
+@@||app.message.sonicwall.com^
 @@||app.plex.tv^$extension
 @@||app.powerbi.com^
 @@||app.sendgrid.com^$elemhide,jsinject
@@ -117,6 +120,7 @@
 @@||auth.gfx.ms^$document
 @@||autocomplete.clearbit.com^
 @@||autocomplete.clearbit.com^$xmlhttprequest
+@@||banner.dna.fi^
 @@||baozhang.baidu.com^
 @@||battle.net^
 @@||bdad.123pan.cn^
@@ -131,6 +135,7 @@
 @@||buyad.bi-xenon.cn^
 @@||c.y.qq.com^
 @@||captcha-delivery.com^$stealth
+@@||captcha-delivery.com^$subdocument,extension
 @@||captcha.su.baidu.com^
 @@||cbsi.map.fastly.net^
 @@||cdi.ofiii.com^
@@ -145,6 +150,7 @@
 @@||channel4.com^$stealth
 @@||chart-embed.service.newrelic.com^
 @@||chart-embed.service.newrelic.com^$subdocument,xmlhttprequest
+@@||chaturbate.com^
 @@||chaynikam.info^$removeparam
 @@||checkout.paddle.com^$elemhide,jsinject,content
 @@||chicksonright.com^$csp,~third-party
@@ -175,6 +181,7 @@
 @@||data.sec.miui.com^
 @@||datawrapper.dwcdn.net^$jsinject
 @@||deadshot.io^$stealth
+@@||developers.google.com^
 @@||discretemath.org^$image,stylesheet
 @@||disneyplus.com^$generichide,badfilter
 @@||django-cookie-consent.readthedocs.io^$~third-party
@@ -335,6 +342,7 @@
 @@||oauth-login-drcn.platform.dbankcloud.com^
 @@||ondemand.sas.com^$subdocument
 @@||onet.pl^$generichide,badfilter
+@@||onl.bz^
 @@||online.cosmosbank.in^$document
 @@||openxlab.org.cn^
 @@||optout.networkadvertising.org^$document
@@ -354,6 +362,7 @@
 @@||phs.tanx.com^
 @@||pic-tv6s.4p68.com^
 @@||pic.iask.cn^
+@@||pics.porn300.com^
 @@||pics.porndroids.com^
 @@||pilet.elron.ee^$extension
 @@||pilot.wp.pl^$generichide,badfilter
@@ -379,6 +388,7 @@
 @@||redirect.disqus.com^
 @@||registrierung.gmx.net^$stealth
 @@||registrierung.web.de^$stealth
+@@||reports.adguard.com^
 @@||rmfon.pl^$stealth
 @@||rocket.chat^
 @@||router.asus.com^$document
@@ -387,6 +397,7 @@
 @@||runescape.wiki^$image,~third-party
 @@||s.click.taobao.com^$popup
 @@||s.mvconf.f.360.cn^
+@@||s.optnx.com^
 @@||s1.wp.com^
 @@||sandbox.cryptpad.info^$elemhide,jsinject,content,extension
 @@||sax.sina.com.cn^
@@ -395,6 +406,7 @@
 @@||sdkapi.sms.mob.com^
 @@||senseoflaw.com^$stealth
 @@||settings-win.data.microsoft.com^
+@@||sgqcvfjvr.onet.pl^
 @@||sgtm.farmasave.it^$script,~third-party
 @@||shminorshort.weixin.qq.com^
 @@||simkl.com^$xmlhttprequest,elemhide,jsinject,extension
@@ -499,6 +511,7 @@
 @@||widget.rave.office.net^
 @@||widget.sndcdn.com^
 @@||widget.weibo.com^
+@@||widgets.wp.com^
 @@||wl.jd.com^
 @@||wp.pl^$script,image
 @@||wsr.pearsonvue.com^$extension
