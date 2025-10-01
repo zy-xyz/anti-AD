@@ -226,9 +226,11 @@
 ||collect-v*.51.la^
 ||collector*.ex.co^
 ||collector-*.luigisbox.com^
+||collector-*.protechts.net^
 ||collector-*.px-cdn.net^
 ||collector-*.px-client.net^
 ||collector-*.px-cloud.net^
+||collector-*.pxchk.net^
 ||collector-*.tvsquared.com^
 ||collector-*.us.tvsquared.com^
 ||cookie-sl.s3.*.amazonaws.com^$third-party

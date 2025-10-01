@@ -227,7 +227,6 @@
 @@||fino.svc.litv.tv^
 @@||forums.windowscentral.com^$script,~third-party
 @@||fp-it.fengkongcloud.com^
-@@||freeplayervideo.com^$subdocument
 @@||front-go.lemall.com^
 @@||ftp.bmp.ovh^
 @@||fundingchoicesmessages.google.com^$script,xmlhttprequest,subdocument
@@ -240,8 +239,6 @@
 @@||gls-group.eu^$extension
 @@||gma.alicdn.com^
 @@||go.redirectingat.com^$document
-@@||gogoplay5.com^$subdocument
-@@||gomoplayer.com^$subdocument
 @@||gotunnel.org^
 @@||grandcentral.1plus1.video^$stealth
 @@||h-adashx.ut.dingtalk.com^
