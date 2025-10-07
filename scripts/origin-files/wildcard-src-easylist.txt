@@ -417,6 +417,7 @@
 ||mssdk*.zijieapi.com^
 ||n*adserv.com^
 ||n*adserv.xyz^
+||nelonenmedia-pmd-ads-*.nm-stream.nelonenmedia.fi^
 ||oiwjcsh*.top^
 ||omgmta*.*^
 ||omniture*.*^

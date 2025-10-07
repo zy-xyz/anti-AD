@@ -334,6 +334,7 @@
 @@||nhk.or.jp^$content
 @@||nodkey.xyz^$genericblock,generichide
 @@||noizz.pl^$generichide,badfilter
+@@||notion.so^$generichide,badfilter
 @@||ny.gov^$stealth
 @@||oa.tr.line.me^$document
 @@||oauth-login-drcn.platform.dbankcloud.com^
@@ -465,6 +466,7 @@
 @@||trackjs.com^$~third-party
 @@||tradingview.com^$script,stealth
 @@||transfemscience.org^$document,stealth
+@@||trojmiasto.pl^$elemhide,jsinject,content,extension,~script,~stylesheet
 @@||tryit.w3schools.com^$document
 @@||tube.e.kuaishou.com^
 @@||tuhu.cn^
