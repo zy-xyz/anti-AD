@@ -14,6 +14,7 @@
 ||*-analytics*.huami.com^
 ||*-applog.fqnovel.com^
 ||*-datareceiver.aki-game.net^
+||*-sdk.rum.aliyuncs.com^
 ||*.diwodiwo.xyz^
 ||*.exaapi.com^
 ||*.libaishuo.com^
