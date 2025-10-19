@@ -14,6 +14,7 @@
 ||*-analytics*.huami.com^
 ||*-applog.fqnovel.com^
 ||*-datareceiver.aki-game.net^
+||*-default-cn.rum.aliyuncs.com^
 ||*-sdk.rum.aliyuncs.com^
 ||*.diwodiwo.xyz^
 ||*.exaapi.com^
@@ -310,6 +311,7 @@
 ||gscounters.*.gigya.com^
 ||gtlpa*.com^
 ||guanggao*.*^
+||h3v9p8x2q1r7-agckaeh6g2ehcaes.*.azurewebsites.net^
 ||hads*s.com^
 ||hba*.hepsiburada.com^
 ||hbbtv.*.de^

@@ -190,7 +190,6 @@
 @@||dood.watch^$subdocument
 @@||dostavista.ru^$stealth
 @@||download.adguard.com^
-@@||download.falco.org^
 @@||download.jumpw.com^
 @@||download.mokeedev.com^$genericblock,generichide
 @@||dropbox.com^$generichide,badfilter
@@ -388,7 +387,6 @@
 @@||registrierung.web.de^$stealth
 @@||reports.adguard.com^
 @@||rmfon.pl^$stealth
-@@||rocket.chat^
 @@||router.asus.com^$document
 @@||routerlogin.com^$document
 @@||routerlogin.net^$document
@@ -519,6 +517,7 @@
 @@||www.literotica.com^$content
 @@||www.msftconnecttest.com^
 @@||wwwimage-tve.cbsstatic.com^
+@@||x2.ifengimg.com^
 @@||xe.com^$removeparam
 @@||xfinity.com^$stealth
 @@||xhaccess.com^$script,~third-party
