@@ -193,7 +193,6 @@
 @@||download.jumpw.com^
 @@||download.mokeedev.com^$genericblock,generichide
 @@||dropbox.com^$generichide,badfilter
-@@||dw.iask.com.cn^
 @@||dxcloud.episerver.net^
 @@||ebank.bsstarozreby.pl^$elemhide,jsinject,extension
 @@||ebok.gkpge.pl^$jsinject,extension
@@ -289,7 +288,6 @@
 @@||logging.apache.org^
 @@||logging.apache.org^$~third-party
 @@||logicool.co.jp^$content
-@@||login-ishare.iask.com.cn^
 @@||login-sh.aki-game.com^
 @@||login.gaijin.net^
 @@||login.live.com^$stealth
@@ -358,7 +356,6 @@
 @@||pgpartner.com^
 @@||phs.tanx.com^
 @@||pic-tv6s.4p68.com^
-@@||pic.iask.cn^
 @@||pics.porn300.com^
 @@||pics.porndroids.com^
 @@||pilet.elron.ee^$extension
@@ -424,7 +421,6 @@
 @@||star.c10r.facebook.com^
 @@||star.fallback.c10r.facebook.com^
 @@||stat.jseea.cn^
-@@||static3.iask.cn^
 @@||stats.britishbaseball.org.uk^
 @@||stats.gov.cn^
 @@||stats.uptimerobot.com^
@@ -498,7 +494,6 @@
 @@||webstatic.nero.com^
 @@||webtrack.dhlglobalmail.com^
 @@||webzjcaptcha.reg.163.com^
-@@||wechat.ishare.iask.com.cn^
 @@||whatsapp.com^$generichide,badfilter
 @@||widget.1688.com^
 @@||widget.ezidebit.com.au^
