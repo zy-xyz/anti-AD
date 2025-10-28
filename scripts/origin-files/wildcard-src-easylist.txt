@@ -8,7 +8,6 @@
 @@||r.*.awstrack.me^
 @@||stemplay.*^$stealth
 @@||tongji.*kuwo.cn^
-@@||usageapi.*.oraclecloud.com^
 ||*-ad-sign.byteimg.com^
 ||*-ad.a.yximgs.com^
 ||*-analytics*.huami.com^
@@ -27,11 +26,9 @@
 ||*adapt-beacon.awsprodops.movetv.com^
 ||*cdn-settings.appsflyersdk.com^
 ||*conversions.appsflyersdk.com^
-||*customstat*.51togic.com^
 ||*ggua.xyz^$third-party
 ||*inapps.appsflyersdk.com^
 ||*launches.appsflyersdk.com^
-||*log.droid4x.cn^
 ||*mistat*.xiaomi.com^
 ||*register.appsflyersdk.com^
 ||*serror*.wo.com.cn^
@@ -39,8 +36,6 @@
 ||*us*watcab*.blob.core.windows.net^
 ||163487*.qmgmw.com^
 ||24log.*^
-||24smi.*^
-||2cnjuh34j*.com^
 ||8*.tianya.cn^
 ||a*.chajiaotong.com^
 ||a*.smlog.co.kr^
@@ -58,7 +53,6 @@
 ||ad*.ettoday.net^
 ||ad*.gyaloglo.hu^
 ||ad*.mellesleg.hu^
-||ad*.molitv.cn^
 ||ad*.nexage.com^
 ||ad*.on.cc^
 ||ad*.thisisgame.com^
@@ -70,7 +64,6 @@
 ||ad-*.com^
 ||ad-*.cos.accelerate.myqcloud.com^$third-party
 ||ad-*.net^
-||ad-*.wikawika.xyz^
 ||ad.*.doubleclick.net^
 ||ad.*.xiaomi.com^
 ||ad.api.*.youku.com^
@@ -117,7 +110,6 @@
 ||adsfilebssdlbig.*.kugou.com^
 ||adsh*.*^
 ||adsmogo*.*^
-||adsrvmedia*.*^
 ||adsview*.qq.com^
 ||adsystem*.*^
 ||adv.sec*.miui.com^
@@ -129,7 +121,6 @@
 ||adx-*.dbankedge.cn^
 ||adx-*.op.dbankcloud.com.edgekey.net^
 ||aem-collector-*.kgslb.com^
-||aeros*.tk^
 ||aff*.kolektiva.net^
 ||aj1*.online^
 ||aj1*.xyz^
@@ -168,8 +159,6 @@
 ||appanalysis*.banggood.com^
 ||apple-*.le.com^
 ||applog*.matrix.easebar.com^
-||applovin*.*^
-||appsflyer*.*^
 ||as*.prog.hu^
 ||asd8900.oss-*.aliyuncs.com^
 ||assoc-amazon.*^
@@ -201,8 +190,6 @@
 ||block.s*block.com^$third-party
 ||broredir*s.site^
 ||browser-intake-*-datadoghq.com^
-||brucelead*.com^
-||bs*.9669.cn^
 ||btn.createsend*.com^$third-party
 ||buyu*9.com^$document
 ||buyu9*.com^$document
@@ -218,12 +205,9 @@
 ||cl*.k5a.io^$third-party
 ||clickstream-*.homedepot.com^
 ||client.rum.*.amazonaws.com^
-||clientlog*.music.163.com^
 ||clk.rtpdn*.com^
 ||clk.rtpdn*.com^$all
-||clkservice*.youdao.com^
 ||clog*.yuanfudao.com^
-||cloudservice*.kingsoft-office-service.com^
 ||collect-elb-*.amazonaws.com^
 ||collect-v*.51.la^
 ||collector*.ex.co^
@@ -236,7 +220,6 @@
 ||collector-*.tvsquared.com^
 ||collector-*.us.tvsquared.com^
 ||cookie-sl.s3.*.amazonaws.com^$third-party
-||count*.pconline.com.cn^
 ||counter*-yadro*-ru.unblocked.lol^
 ||counter*.freecounter.ovh^
 ||counter*.freecounter.ovh^$third-party
@@ -249,6 +232,7 @@
 ||d*.xinshipu.com^
 ||da.hornbach.*^
 ||das.*.youku.com^
+||data-track*.yingxiong.com^
 ||datacollect*.abtasty.com^
 ||datacollector-*.dt.dbankcloud.cn^
 ||datacollector-*.dt.hicloud.com^
@@ -261,12 +245,9 @@
 ||dm*.yxlady.com^
 ||dm-*.toutiao.com^
 ||dn*.ixinwei.com^
-||domob*.*^
 ||dsp*.youdao.com^
 ||dualstack.adbert-web-lbs-*.elb.amazonaws.com^
-||duomeng*.*^
 ||dw-informer-*.newsru.com^
-||dwtrack*.*^
 ||eclog*-*.cafe24.com^
 ||eclog*-*.cafe24.com^$third-party
 ||ecm*.bdimg.com^
@@ -281,20 +262,17 @@
 ||events-api*.outfit7.com^
 ||exe*.spankbang.com^$xmlhttprequest
 ||exe*.spankbang.party^$xmlhttprequest
-||f-log*.grammarly.io^
 ||f-log-*.grammarly.io^
 ||fads*s.com^
 ||fads*z.com^
 ||fanpingbi*.gaokao.com^
 ||faro-collector-prod-*.grafana.net^
 ||firebaselogging-*.googleapis.com^
-||flightzy.*^
 ||fls-*.amazon.com^
 ||flurry.agentportal-*.yahoodns.net^
 ||flurry.agentportal.*.yahoodns.net^
 ||fp-*it*.fengkongcloud.com^
 ||fpb*.51edu.com^
-||freecontent.*^
 ||gads*s.com^
 ||gads*z.com^
 ||gcw*.2liang.cn^
@@ -303,11 +281,9 @@
 ||geoloc*.geostats.ovh^
 ||geoloc*.geovisite.ovh^
 ||geotargetly-api-*.com^
-||gg*.51cto.com^
 ||gg*.miguvideo.com^
 ||gonews*.net^
 ||gostats.*^
-||grjs0*.com^
 ||gscounters.*.gigya.com^
 ||gtlpa*.com^
 ||guanggao*.*^
@@ -324,7 +300,6 @@
 ||host*.rigbyandpeller.com^
 ||host*.rvshare.com^
 ||hostingcloud.*.wasm^
-||hostingcloud.*^
 ||hstats*.hepsiburada.com^
 ||hw-sh-pcdn-*.biliapi.net^
 ||i-*.ci360.sas.com^
@@ -332,7 +307,6 @@
 ||iad-*.appboy.com^
 ||iad-*.braze.com^
 ||ifengad.*.ifeng.com^
-||iflyad.*.openstorage.cn^
 ||imglnk*.com^
 ||imp-*.jampp.com^
 ||impservice*.yodao.com^
@@ -345,7 +319,6 @@
 ||js*.abolezi.com^
 ||js.*2023*.live^
 ||js.*2023*.xyz^
-||jshosting.*^
 ||jtbo*.nqxvevk.cn^
 ||ky891.oss-*.aliyuncs.com^
 ||lively-collect-elb-*.amazonaws.com^
@@ -360,7 +333,6 @@
 ||log*-normal-useast1a.lemon8-app.com^
 ||log*.aliyuncs.com^
 ||log*.byteoversea.com^
-||log*.molitv.cn^
 ||log*.vietnamplus.vn^
 ||log*.zijieapi.com^
 ||log-*.epicdn.me^
@@ -422,10 +394,8 @@
 ||n*adserv.com^
 ||n*adserv.xyz^
 ||nelonenmedia-pmd-ads-*.nm-stream.nelonenmedia.fi^
-||oiwjcsh*.top^
 ||omgmta*.*^
 ||omniture*.*^
-||openx*.*^
 ||opnked*.xyz^
 ||orbit*.lun.ua^
 ||orderana*.spankbang.com^
@@ -440,7 +410,6 @@
 ||pijama.*.elasticbeanstalk.com^
 ||ping*.qq.com^
 ||ping.*.sogou.com^
-||pingfore*.*^
 ||piwik.*.vn^
 ||pixel*.production-public.tubi.io^
 ||pixel-*.convertagain.net^
@@ -455,7 +424,6 @@
 ||prod.*.publishers.advertising.a2z.com^
 ||production-adserver-*.amazonaws.com^
 ||promo-*.vercel.app^
-||pussl*.com^
 ||putrr*.com^
 ||putrr*.com^$third-party
 ||px*.mediahills.ru^
@@ -489,7 +457,6 @@
 ||same*.stockstar.com^
 ||sd.s*dad.com^$document
 ||sd.yhzzzs*.com^
-||sda*.xyz^
 ||sdk-*.moengage.com^
 ||sdk.*.braze.com^$third-party
 ||sell*.etlong.com^
@@ -501,7 +468,6 @@
 ||sher.*.hu^
 ||snowplow-collector-*.amazonaws.com^
 ||snowplow-collector-*.amazonaws.com^$third-party
-||socdm*.*^
 ||sock*-goguardian.pusher.com^
 ||sonar*.xy.fbcdn.net^
 ||srmdata-*.com^
@@ -524,8 +490,6 @@
 ||subnewss*.net^
 ||suite*.linximpulse.net^
 ||suite*.linximpulse.net^$third-party
-||sunnimiq*.cf^
-||supersonicads*.*^
 ||t*.playdigo.live^
 ||t*.zcvh.net^
 ||tag-based.s3.*.amazonaws.com^
@@ -568,10 +532,8 @@
 ||ulog.*.ksapisrv.com^
 ||ulog.*.kwai-pro.com^
 ||um*.com^$third-party
-||umtrack*.com^
 ||union*.365inews.com^
 ||us.*.qwadro.com^
-||usage*.*^
 ||use-trk*.bluevoox.com^
 ||util-*.simply-hentai.com^
 ||v*-ad.video.yximgs.com^
@@ -582,16 +544,12 @@
 ||v*.sitecounter.site^$third-party
 ||v.newsportal*.ru^
 ||v.tzbox*.xyz^
-||vegaoo*.*^
 ||vente-unique.*^
-||vmm-satellite*.com^
 ||vns86.oss-*.aliyuncs.com^
-||voluumtrk*.com^
 ||vs*.bozhou666.com^$third-party
 ||vs*.gzcu.u3.ucweb.com^
 ||w*.*skwai.com^
 ||w*statistics.info^
-||wafmedia*.*^
 ||web-stat.*^
 ||webads.*^
 ||widget-v*.tidiochat.com^$third-party
