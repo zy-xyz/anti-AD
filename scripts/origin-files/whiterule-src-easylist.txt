@@ -181,11 +181,13 @@
 @@||data.sec.miui.com^
 @@||datawrapper.dwcdn.net^$jsinject
 @@||deadshot.io^$stealth
+@@||detectportal.firefox.com^$document
 @@||developers.google.com^
 @@||discretemath.org^$image,stylesheet
 @@||disneyplus.com^$generichide,badfilter
 @@||django-cookie-consent.readthedocs.io^$~third-party
 @@||dl.reg.163.com^
+@@||dlhd.dad^$genericblock
 @@||dnsleaktest.com^$content,elemhide,jsinject
 @@||dood.watch^$subdocument
 @@||dostavista.ru^$stealth
