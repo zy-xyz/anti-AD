@@ -66,7 +66,6 @@
 ||ad-*.cos.accelerate.myqcloud.com^$third-party
 ||ad-*.net^
 ||ad.*.doubleclick.net^
-||ad.*.xiaomi.com^
 ||ad.api.*.youku.com^
 ||ad.kisstvshow.*^
 ||adash*.m.taobao.com^
@@ -99,7 +98,6 @@
 ||ads-*.v.ssp.yahoo.com^
 ||ads-dmp-collect.*.karrotmarket.com^
 ||ads.*.kugou.com^
-||ads.*.yahoo.com^
 ||ads.livetv*.me^
 ||adsage*.*^
 ||adsensor*.*^
@@ -121,14 +119,7 @@
 ||adwords*.*^
 ||adx-*.dbankedge.cn^
 ||adx-*.op.dbankcloud.com.edgekey.net^
-||aem-collector-*.kgslb.com^
 ||aff*.kolektiva.net^
-||aj1*.online^
-||aj1*.xyz^
-||aj2*.bid^
-||aj2*.online^
-||aj3*.bid^
-||ajx*.online^
 ||ali-bj-pcdn-*.biliapi.net^
 ||alishop*.ru^
 ||ana*.inews24.com^
@@ -138,7 +129,6 @@
 ||analytics*.clickdimensions.com^
 ||analytics*.prezly.com^
 ||analytics-*-nfl.yinzcam.com^
-||analytics-ad-*.kgslb.com^
 ||analytics-rollout-*.amazonaws.com^
 ||analytics.*.sky.com^
 ||analyzer*.fc2.com^
@@ -149,7 +139,6 @@
 ||api*.batmobil.net^
 ||api*.bidmachine.io^
 ||api*.moengage.com^
-||api-*.bidmachine.io^
 ||api-*.hismarttv.com^
 ||api-access.pangolin-sdk-toutiao-*.com^
 ||api.*.hismarttv.com^
@@ -201,7 +190,6 @@
 ||cdn-adn-*.rayjump.com^
 ||ce-global-track-*.amazonaws.com^
 ||chat*-ce.chatdealer.jp^
-||cj1*.online^
 ||cl*.k5a.io^
 ||cl*.k5a.io^$third-party
 ||clickstream-*.homedepot.com^
@@ -213,13 +201,9 @@
 ||collect-v*.51.la^
 ||collector*.ex.co^
 ||collector-*.luigisbox.com^
-||collector-*.protechts.net^
 ||collector-*.px-cdn.net^
 ||collector-*.px-client.net^
-||collector-*.px-cloud.net^
-||collector-*.pxchk.net^
 ||collector-*.tvsquared.com^
-||collector-*.us.tvsquared.com^
 ||cookie-sl.s3.*.amazonaws.com^$third-party
 ||counter*-yadro*-ru.unblocked.lol^
 ||counter*.freecounter.ovh^
@@ -240,8 +224,6 @@
 ||device-metrics-*.amazon.com^
 ||device-metrics-us*.amazon.com^
 ||discovery-ios-*.ertelecom.ru^
-||display-ad-*.kgslb.com^
-||dj1*.online^
 ||dm*.ppzuowen.com^
 ||dm*.yxlady.com^
 ||dm-*.toutiao.com^
@@ -253,7 +235,6 @@
 ||eclog*-*.cafe24.com^$third-party
 ||ecm*.bdimg.com^
 ||ecommerce-events*.adscale.com^
-||ej1*.online^
 ||etargetnet.*.hu^
 ||eum*.instana.io^
 ||event.*.karrotmarket.com^
@@ -264,8 +245,6 @@
 ||exe*.spankbang.com^$xmlhttprequest
 ||exe*.spankbang.party^$xmlhttprequest
 ||f-log-*.grammarly.io^
-||fads*s.com^
-||fads*z.com^
 ||fanpingbi*.gaokao.com^
 ||faro-collector-prod-*.grafana.net^
 ||firebaselogging-*.googleapis.com^
@@ -274,8 +253,6 @@
 ||flurry.agentportal.*.yahoodns.net^
 ||fp-*it*.fengkongcloud.com^
 ||fpb*.51edu.com^
-||gads*s.com^
-||gads*z.com^
 ||gcw*.2liang.cn^
 ||geoloc*.9cd47096ab1495d8d3b18667f6a52b9c.com^
 ||geoloc*.geo20120530.com^
@@ -290,7 +267,6 @@
 ||gtlpa*.com^
 ||guanggao*.*^
 ||h3v9p8x2q1r7-agckaeh6g2ehcaes.*.azurewebsites.net^
-||hads*s.com^
 ||hba*.hepsiburada.com^
 ||hbbtv.*.de^
 ||hh*.huojiabeijing.org^$document
@@ -351,7 +327,6 @@
 ||logstash-*.radio-canada.ca^
 ||lt*.tritondigital.com^
 ||maas-*.phunware.com^
-||mads*z.com^
 ||mapi-log.qoo*.jp^
 ||marketplace-*.hyprmx.com^
 ||matomo-demo-*.amazonaws.com^
@@ -374,7 +349,6 @@
 ||minero-proxy-*.sh^
 ||minero-proxy-*.sh^$third-party
 ||minitds-*.info^
-||mistat.*.xiaomi.com^
 ||mkto-*.com^$third-party
 ||mob*.novanewsapp.com^
 ||mobiadvert*.livesportmedia.eu^
@@ -393,8 +367,6 @@
 ||msg*.video.qiyi.com^
 ||mssdk*.capcutapi.com^
 ||mssdk*.zijieapi.com^
-||n*adserv.com^
-||n*adserv.xyz^
 ||nelonenmedia-pmd-ads-*.nm-stream.nelonenmedia.fi^
 ||omgmta*.*^
 ||omniture*.*^
@@ -410,7 +382,6 @@
 ||parkdomainreal*.site^$third-party
 ||partner.superbahisaffiliates*.com^
 ||pijama.*.elasticbeanstalk.com^
-||ping*.qq.com^
 ||ping.*.sogou.com^
 ||piwik.*.vn^
 ||pixel*.production-public.tubi.io^
@@ -422,10 +393,7 @@
 ||policy*.cookieinformation.com^$third-party
 ||prebid-*.rubiconproject.com^
 ||prebid-cache*.ifunny.co^
-||prod.*.analytics.console.aws.a2z.com^
-||prod.*.publishers.advertising.a2z.com^
 ||production-adserver-*.amazonaws.com^
-||promo-*.vercel.app^
 ||putrr*.com^
 ||putrr*.com^$third-party
 ||px*.mediahills.ru^
@@ -496,7 +464,6 @@
 ||t*.zcvh.net^
 ||tag-based.s3.*.amazonaws.com^
 ||tag-based.s3.*.amazonaws.com^$third-party
-||tblog-*.kgslb.com^
 ||telemetry*.transcend.io^
 ||telemetry.*.pvp.net^
 ||teleriumads-*.netdna-ssl.com^
@@ -540,7 +507,6 @@
 ||util-*.simply-hentai.com^
 ||v*-ad.video.yximgs.com^
 ||v*-be-pack.pglstatp-toutiao.com^
-||v*.denakop.com^
 ||v*.qudou100.com^$script
 ||v*.sitecounter.site^
 ||v*.sitecounter.site^$third-party
