@@ -502,6 +502,7 @@
 ||teleriumads-*.netdna-ssl.com^
 ||teleriumads-*.netdna-ssl.com^$third-party
 ||thezbpe5*.xyz^
+||tnc*.tiktokv.com^
 ||tnc*.tiktokv.us^
 ||tnc*.zijieapi.com^
 ||tnc*.zijieapi.com^$app
