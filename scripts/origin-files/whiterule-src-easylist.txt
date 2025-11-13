@@ -456,7 +456,6 @@
 @@||tracker.ai.xiaomi.com^
 @@||tracker.eu.org^
 @@||tracker.namitiyu.com^
-@@||trackjs.com^$~third-party
 @@||tradingview.com^$script,stealth
 @@||transfemscience.org^$document,stealth
 @@||trojmiasto.pl^$elemhide,jsinject,content,extension,~script,~stylesheet

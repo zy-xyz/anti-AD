@@ -461,6 +461,7 @@
 ||sd.yhzzzs*.com^
 ||sdk-*.moengage.com^
 ||sdk.*.braze.com^$third-party
+||sdk.fra-*.braze.eu^
 ||sell*.etlong.com^
 ||sense-*.tapdb.net^
 ||sensorsdata*.read.duokan.com^
