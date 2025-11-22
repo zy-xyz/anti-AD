@@ -489,6 +489,7 @@
 ||stats*.credit-cooperatif.coop^
 ||stats*.videonow.ru^
 ||stats-*.p2pnow.ru^
+||stats.*.ronghub.com^
 ||stats.*.rongnav.com^
 ||stats2.*.fdnames.com^
 ||stlog*-local.kakao.com^
