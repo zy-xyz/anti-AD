@@ -22,6 +22,7 @@
 @@||ad.ourgame.com^
 @@||ad.siemens.com.cn^
 @@||ad.vivo.com.cn^
+@@||ad.vivo.com.cn^$~3p
 @@||ad.vivo.com.cn^$~third-party
 @@||adashx.ut.dingtalk.com^
 @@||adblock.adguard.com^
@@ -33,10 +34,12 @@
 @@||adm.crowdicity.com^
 @@||admin.mailchimp.com^
 @@||admin.mailchimp.com^$extension
+@@||adnet.qq.com^$~3p
 @@||adnet.qq.com^$~third-party
 @@||adrinolinks.in^$stealth
 @@||ads.95516.com^
 @@||ads.alafish.cn^
+@@||ads.alafish.cn^$~3p
 @@||ads.alafish.cn^$~third-party
 @@||ads.atmosphere.copernicus.eu^
 @@||ads.atmosphere.copernicus.eu^$popup
@@ -50,6 +53,7 @@
 @@||ads.google.com^
 @@||ads.google.com^$popup
 @@||ads.lingxing.com^
+@@||ads.lingxing.com^$~3p
 @@||ads.lingxing.com^$~third-party
 @@||ads.listonic.com^
 @@||ads.listonic.com^$popup
@@ -68,6 +72,7 @@
 @@||ads.taboola.com^
 @@||ads.taboola.com^$popup
 @@||ads.tiktok.com^$popup
+@@||ads.tiktok.com^$~3p
 @@||ads.tiktok.com^$~third-party
 @@||ads.twitter.com^
 @@||ads.twitter.com^$popup
@@ -75,6 +80,7 @@
 @@||ads.vk.com^$popup
 @@||ads.x.com^
 @@||ads.x.com^$popup
+@@||adsense.woso.cn^$~3p
 @@||adsense.woso.cn^$~third-party
 @@||adv.asahi.com^$popup
 @@||adv.bloop.info^
@@ -224,7 +230,7 @@
 @@||filmweb.pl^$generichide,badfilter
 @@||findernet.com^$content
 @@||fino.svc.litv.tv^
-@@||forums.windowscentral.com^$script,~third-party
+@@||forums.windowscentral.com^$script,~3p
 @@||fp-it.fengkongcloud.com^
 @@||front-go.lemall.com^
 @@||ftp.bmp.ovh^
@@ -241,8 +247,11 @@
 @@||gotunnel.org^
 @@||grandcentral.1plus1.video^$stealth
 @@||h-adashx.ut.dingtalk.com^
+@@||hanjubaike.com^$script,~3p
 @@||hanjubaike.com^$script,~third-party
+@@||hanjuwang.com^$script,~3p
 @@||hanjuwang.com^$script,~third-party
+@@||hanjuwang.net^$script,~3p
 @@||hanjuwang.net^$script,~third-party
 @@||hbbtv.kika.de^
 @@||hbbtv.prosieben.de^
@@ -360,6 +369,7 @@
 @@||pics.porndroids.com^
 @@||pilet.elron.ee^$extension
 @@||pilot.wp.pl^$generichide,badfilter
+@@||pingjs.qq.com^$~3p
 @@||pingjs.qq.com^$~third-party
 @@||pixel.prime.amazon.dev^
 @@||player.uauflix.online^$stealth

@@ -18,6 +18,7 @@
 ||*.diwodiwo.xyz^
 ||*.exaapi.com^
 ||*.libaishuo.com^
+||*.libaishuo.com^$3p
 ||*.libaishuo.com^$third-party
 ||*.mmstat.com^
 ||*.p2p.huya.com^
