@@ -19,7 +19,6 @@
 ||*.exaapi.com^
 ||*.libaishuo.com^
 ||*.libaishuo.com^$3p
-||*.libaishuo.com^$third-party
 ||*.mmstat.com^
 ||*.p2p.huya.com^
 ||*.va.huya.com^
@@ -72,7 +71,6 @@
 ||ad.kisstvshow.*^
 ||adash*.m.taobao.com^
 ||adash*.ut.taobao.com^
-||adblock*.static-cloudflare.workers.dev^
 ||adcounter*.uptolike.ru^
 ||adcs-*.myappsget.com^
 ||adi*.cnool.net^
@@ -193,11 +191,13 @@
 ||block.s*block.com^$third-party
 ||broredir*s.site^
 ||browser-intake-*-datadoghq.com^
+||btn.createsend*.com^$3p
 ||btn.createsend*.com^$third-party
 ||buyu*9.com^$document
 ||buyu9*.com^$document
 ||c*hit.zerkalo.io^
 ||cas.*.criteo.com^
+||cdn*.pdmntn.com^$3p
 ||cdn*.pdmntn.com^$third-party
 ||cdn*.swaxis.com^
 ||cdn-adn-*.rayjump.com^
@@ -305,6 +305,7 @@
 ||host*.rvshare.com^
 ||hostingcloud.*.wasm^
 ||hstats*.hepsiburada.com^
+||htm*.hepsiburada.com^
 ||hw-sh-pcdn-*.biliapi.net^
 ||i-*.ci360.sas.com^
 ||i-*.ci360.sas.com^$third-party
@@ -464,6 +465,7 @@
 ||sd.s*dad.com^$document
 ||sd.yhzzzs*.com^
 ||sdk-*.moengage.com^
+||sdk.*.braze.com^$3p
 ||sdk.*.braze.com^$third-party
 ||sdk.fra-*.braze.eu^
 ||sell*.etlong.com^
@@ -483,6 +485,7 @@
 ||ssp*.rtb.beeline.ru^
 ||st-*.dynamicyield.com^
 ||st-n.ads*-adnow.com^
+||st-n.ads*-adnow.com^$3p
 ||st-n.ads*-adnow.com^$third-party
 ||staging-*.ispot.tv^
 ||stat*.1internet.tv^
