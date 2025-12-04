@@ -19,6 +19,7 @@
 ||*.exaapi.com^
 ||*.libaishuo.com^
 ||*.libaishuo.com^$3p
+||*.libaishuo.com^$third-party
 ||*.mmstat.com^
 ||*.p2p.huya.com^
 ||*.va.huya.com^
@@ -32,6 +33,7 @@
 ||*mistat*.xiaomi.com^
 ||*register.appsflyersdk.com^
 ||*serror*.wo.com.cn^
+||*stun.kugou.com^
 ||*tsdk.vivo.com.cn^
 ||*two-gun-volley.pages.dev^
 ||*us*watcab*.blob.core.windows.net^
@@ -65,6 +67,7 @@
 ||ad-*.com^
 ||ad-*.cos.accelerate.myqcloud.com^$third-party
 ||ad-*.net^
+||ad-host-backup-*.aliyuncs.com^
 ||ad.*.doubleclick.net^
 ||ad.*.xiaomi.com^
 ||ad.api.*.youku.com^
@@ -167,7 +170,7 @@
 ||atanx*.alicdn.com^
 ||attr-logs.*.amazonaws.com^
 ||auth-*.hismarttv.com^
-||avts*.xyz^$document
+||avts*.xyz^$documentument
 ||ax.*.ifeng.com^
 ||banner*.kinogo.by^
 ||banner.*.tccapis.com^
@@ -186,18 +189,16 @@
 ||bj*.9669.cn^
 ||bjkedv*.xyz^
 ||bjsvp*.space^
-||bkdp*.xyz^$document
+||bkdp*.xyz^$documentument
 ||block.s*block.com^
 ||block.s*block.com^$third-party
 ||broredir*s.site^
 ||browser-intake-*-datadoghq.com^
-||btn.createsend*.com^$3p
 ||btn.createsend*.com^$third-party
-||buyu*9.com^$document
-||buyu9*.com^$document
+||buyu*9.com^$documentument
+||buyu9*.com^$documentument
 ||c*hit.zerkalo.io^
 ||cas.*.criteo.com^
-||cdn*.pdmntn.com^$3p
 ||cdn*.pdmntn.com^$third-party
 ||cdn*.swaxis.com^
 ||cdn-adn-*.rayjump.com^
@@ -295,7 +296,7 @@
 ||hads*s.com^
 ||hba*.hepsiburada.com^
 ||hbbtv.*.de^
-||hh*.huojiabeijing.org^$document
+||hh*.huojiabeijing.org^$documentument
 ||hn-ping*.hashnode.com^
 ||host*.carl-ras.dk^
 ||host*.ncoi.nl^
@@ -392,7 +393,7 @@
 ||mon-*.tiktokv.com^
 ||mon-va*.capcutapi.com^
 ||ms*.applvn.com^
-||msfd8mty4nzux.fua*.cc^$document
+||msfd8mty4nzux.fua*.cc^$documentument
 ||msg*.video.qiyi.com^
 ||mssdk*.capcutapi.com^
 ||mssdk*.zijieapi.com^
@@ -442,7 +443,7 @@
 ||qpb*.sohu.com^
 ||quangcao-*.epicdn.me^
 ||query*.petametrics.com^
-||qxig*.xyz^$document
+||qxig*.xyz^$documentument
 ||rb*.design.ru^
 ||reachableads-av.*.amazonaws.com^
 ||real*traf.ru^
@@ -462,10 +463,9 @@
 ||s*a.pstatp.com^
 ||sam*.baby-kingdom.com^
 ||same*.stockstar.com^
-||sd.s*dad.com^$document
+||sd.s*dad.com^$documentument
 ||sd.yhzzzs*.com^
 ||sdk-*.moengage.com^
-||sdk.*.braze.com^$3p
 ||sdk.*.braze.com^$third-party
 ||sdk.fra-*.braze.eu^
 ||sell*.etlong.com^
@@ -485,7 +485,6 @@
 ||ssp*.rtb.beeline.ru^
 ||st-*.dynamicyield.com^
 ||st-n.ads*-adnow.com^
-||st-n.ads*-adnow.com^$3p
 ||st-n.ads*-adnow.com^$third-party
 ||staging-*.ispot.tv^
 ||stat*.1internet.tv^
@@ -499,6 +498,7 @@
 ||stats2.*.fdnames.com^
 ||stlog*-local.kakao.com^
 ||store.*.api.3g.youku.com^
+||stun.*.kugou.com^
 ||subnewss*.net^
 ||suite*.linximpulse.net^
 ||suite*.linximpulse.net^$third-party
