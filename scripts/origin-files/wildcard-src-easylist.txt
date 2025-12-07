@@ -171,6 +171,7 @@
 ||attr-logs.*.amazonaws.com^
 ||auth-*.hismarttv.com^
 ||avts*.xyz^$documentument
+||avts*.xyz^$documentumentument
 ||ax.*.ifeng.com^
 ||banner*.kinogo.by^
 ||banner.*.tccapis.com^
@@ -190,13 +191,16 @@
 ||bjkedv*.xyz^
 ||bjsvp*.space^
 ||bkdp*.xyz^$documentument
+||bkdp*.xyz^$documentumentument
 ||block.s*block.com^
 ||block.s*block.com^$third-party
 ||broredir*s.site^
 ||browser-intake-*-datadoghq.com^
 ||btn.createsend*.com^$third-party
 ||buyu*9.com^$documentument
+||buyu*9.com^$documentumentument
 ||buyu9*.com^$documentument
+||buyu9*.com^$documentumentument
 ||c*hit.zerkalo.io^
 ||cas.*.criteo.com^
 ||cdn*.pdmntn.com^$third-party
@@ -297,6 +301,7 @@
 ||hba*.hepsiburada.com^
 ||hbbtv.*.de^
 ||hh*.huojiabeijing.org^$documentument
+||hh*.huojiabeijing.org^$documentumentument
 ||hn-ping*.hashnode.com^
 ||host*.carl-ras.dk^
 ||host*.ncoi.nl^
@@ -394,6 +399,7 @@
 ||mon-va*.capcutapi.com^
 ||ms*.applvn.com^
 ||msfd8mty4nzux.fua*.cc^$documentument
+||msfd8mty4nzux.fua*.cc^$documentumentument
 ||msg*.video.qiyi.com^
 ||mssdk*.capcutapi.com^
 ||mssdk*.zijieapi.com^
@@ -444,6 +450,7 @@
 ||quangcao-*.epicdn.me^
 ||query*.petametrics.com^
 ||qxig*.xyz^$documentument
+||qxig*.xyz^$documentumentument
 ||rb*.design.ru^
 ||reachableads-av.*.amazonaws.com^
 ||real*traf.ru^
@@ -464,6 +471,7 @@
 ||sam*.baby-kingdom.com^
 ||same*.stockstar.com^
 ||sd.s*dad.com^$documentument
+||sd.s*dad.com^$documentumentument
 ||sd.yhzzzs*.com^
 ||sdk-*.moengage.com^
 ||sdk.*.braze.com^$third-party
