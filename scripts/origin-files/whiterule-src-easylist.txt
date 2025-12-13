@@ -184,6 +184,7 @@
 @@||dashboard.mgid.com^$popup
 @@||dashboard.wedare.pl^$removeparam
 @@||data.sec.miui.com^
+@@||data.service.paypal.com^
 @@||datawrapper.dwcdn.net^$jsinject
 @@||deadshot.io^$stealth
 @@||detectportal.firefox.com^$document
