@@ -193,6 +193,7 @@
 @@||disneyplus.com^$generichide,badfilter
 @@||django-cookie-consent.readthedocs.io^$~third-party
 @@||dl.reg.163.com^
+@@||dl.zuimeitianqi.com^
 @@||dlhd.dad^$genericblock
 @@||dnsleaktest.com^$content,elemhide,jsinject
 @@||dood.watch^$subdocument
