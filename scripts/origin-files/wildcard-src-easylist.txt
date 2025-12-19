@@ -68,6 +68,7 @@
 ||ad-*.cos.accelerate.myqcloud.com^$third-party
 ||ad-*.net^
 ||ad-host-backup-*.aliyuncs.com^
+||ad.*.360.cn^
 ||ad.*.doubleclick.net^
 ||ad.*.xiaomi.com^
 ||ad.api.*.youku.com^
@@ -331,6 +332,7 @@
 ||js.*2023*.live^
 ||js.*2023*.xyz^
 ||jtbo*.nqxvevk.cn^
+||kbox-analytics-prod.s*.amazonaws.com^
 ||ky891.oss-*.aliyuncs.com^
 ||lively-collect-elb-*.amazonaws.com^
 ||liveme-sensors-collect2-*.amazonaws.com^
@@ -396,6 +398,7 @@
 ||mon-*.lemon8-app.com^
 ||mon-*.lemon8-app.us^
 ||mon-*.tiktokv.com^
+||mon-v*-boot.capcutapi.com^
 ||mon-va*.capcutapi.com^
 ||ms*.applvn.com^
 ||msfd8mty4nzux.fua*.cc^$documentument
