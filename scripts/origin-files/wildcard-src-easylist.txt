@@ -221,6 +221,7 @@
 ||collect-v*.51.la^
 ||collector*.ex.co^
 ||collector-*.luigisbox.com^
+||collector-*.perimeterx.net^
 ||collector-*.protechts.net^
 ||collector-*.px-cdn.net^
 ||collector-*.px-client.net^
@@ -531,6 +532,8 @@
 ||tnc16-*.hypic.com^
 ||toujing*.top^
 ||tr.*.espmp-*fr.net^
+||trace-*.hungrypanda.co^
+||track-*.hungrypanda.co^
 ||track.*.roku.com^
 ||tracker*.qcloud.com^
 ||tracking*.euroads.fi^
