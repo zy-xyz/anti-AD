@@ -490,6 +490,7 @@
 ||snowplow-collector-*.amazonaws.com^$third-party
 ||sock*-goguardian.pusher.com^
 ||sonar*.xy.fbcdn.net^
+||spa-tracker*.spapi.io^
 ||srmdata-*.com^
 ||srmdata-*.com^$third-party
 ||ssc.southpark*^
