@@ -411,6 +411,7 @@
 ||n*adserv.com^
 ||n*adserv.xyz^
 ||nelonenmedia-pmd-ads-*.nm-stream.nelonenmedia.fi^
+||nstj.*.xyz^$script,third-party
 ||omgmta*.*^
 ||omniture*.*^
 ||opnked*.xyz^
