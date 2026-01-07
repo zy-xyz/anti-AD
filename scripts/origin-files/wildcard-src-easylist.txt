@@ -355,6 +355,7 @@
 ||log-va*.capcutapi.com^
 ||log.*.hunantv.com^
 ||logger-*.dailymotion.com^
+||logreport-global-dual.cool*cloud.com^
 ||logs*.smithsonian.museum^
 ||logs*.smithsonian.museum^$third-party
 ||logs-*.rebxgame.com^
@@ -579,8 +580,10 @@
 ||w*statistics.info^
 ||web-stat.*^
 ||webads.*^
+||weblogger-wss.cool*cloud.com^
 ||widget-v*.tidiochat.com^$third-party
 ||widgets.*.webengage.com^
+||wslog-global-dual.cool*cloud.com^
 ||www.fuze-hill*.xyz^
 ||www.fuze-hill*.xyz^$popup
 ||www.fuze-sea*.xyz^
