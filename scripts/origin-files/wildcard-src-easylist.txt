@@ -355,6 +355,7 @@
 ||log-*.previewnetworks.com^
 ||log-*.zadn.vn^
 ||log-api.pangolin-sdk-toutiao-*.com^
+||log-v*-boot.capcutapi.com^
 ||log-va*.capcutapi.com^
 ||log.*.hunantv.com^
 ||logger-*.dailymotion.com^
