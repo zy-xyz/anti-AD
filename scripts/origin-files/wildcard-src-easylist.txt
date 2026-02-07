@@ -284,6 +284,7 @@
 ||flurry.agentportal.*.yahoodns.net^
 ||fp-*it*.fengkongcloud.com^
 ||fpb*.51edu.com^
+||fra-*.braze.eu^
 ||gads*s.com^
 ||gads*z.com^
 ||gbxreport-*.wf.com^
