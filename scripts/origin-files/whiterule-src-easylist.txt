@@ -283,6 +283,7 @@
 @@||infolink.pavv.co.kr^
 @@||ingdirect.com.au^$document
 @@||injections.adguard.com^$document
+@@||injections.adguard.org^
 @@||inoreader.com^$genericblock,generichide
 @@||insideruser.microsoft.com^
 @@||iufostworldcongress-singapore.com^
