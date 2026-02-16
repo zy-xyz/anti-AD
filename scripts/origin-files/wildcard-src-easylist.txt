@@ -333,8 +333,10 @@
 ||ir-new-cdn-eu-west-*-hb.rayjump.com^
 ||ja*.gamersky.com^
 ||js*.abolezi.com^
+||js*.iislm.com^$third-party
 ||js.*2023*.live^
 ||js.*2023*.xyz^
+||js.aiqiyi*.com^
 ||jtbo*.nqxvevk.cn^
 ||kbox-analytics-prod.s*.amazonaws.com^
 ||ky891.oss-*.aliyuncs.com^
