@@ -206,6 +206,7 @@
 ||cas.*.criteo.com^
 ||cdn*.pdmntn.com^$third-party
 ||cdn*.swaxis.com^
+||cdn-*.gravityfield.ai^
 ||cdn-adn-*.rayjump.com^
 ||ce-global-track-*.amazonaws.com^
 ||chat*-ce.chatdealer.jp^
