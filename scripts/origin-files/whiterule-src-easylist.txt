@@ -319,7 +319,6 @@
 @@||mediacdn.disqus.com^$document
 @@||mediamarkt.com.tr^$genericblock
 @@||mediamarkt.nl^$other
-@@||megane.com.pl^$generichide,badfilter
 @@||megaxh.com^$script,~third-party
 @@||meizu.coapi.moji.com^
 @@||messenger.com^$extension

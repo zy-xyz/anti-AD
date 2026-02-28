@@ -127,6 +127,7 @@
 ||aem-collector-*.kgslb.com^
 ||aff*.kolektiva.net^
 ||agatha-log-service-*.a.run.app^
+||aj*.online^$third-party,script
 ||aj1*.online^
 ||aj1*.xyz^
 ||aj2*.bid^
