@@ -315,6 +315,7 @@
 @@||m.jd.com^
 @@||mangapark.net^$image
 @@||manwa.me^
+@@||marketplace.xbox.com^
 @@||marketplace.xbox.com^$document
 @@||mediacdn.disqus.com^$document
 @@||mediamarkt.com.tr^$genericblock
@@ -457,6 +458,7 @@
 @@||theverge.com^$content
 @@||thumbor.thedailymeal.com^
 @@||tickets.nickelodeonadventure.co.uk^$xmlhttprequest,elemhide,jsinject,extension
+@@||tiles.mapbox.com^
 @@||tiles.mapbox.com^$document
 @@||time.adp.com^$document
 @@||tix.axs.com^$removeparam
