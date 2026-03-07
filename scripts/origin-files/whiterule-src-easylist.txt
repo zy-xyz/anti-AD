@@ -489,7 +489,6 @@
 @@||uland.taobao.com^
 @@||unicode.org^$content
 @@||union2.50bang.org^$third-party
-@@||uniqlo.com^$jsinject,content
 @@||uop.quark.cn^$important
 @@||urbeez.com^$script
 @@||urldefense.com^$removeparam
