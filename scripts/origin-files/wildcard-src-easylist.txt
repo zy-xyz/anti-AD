@@ -312,6 +312,9 @@
 ||hbbtv.*.de^
 ||hh*.huojiabeijing.org^$documentument
 ||hh*.huojiabeijing.org^$documentumentument
+||hhba0*kdh.com^
+||hhba0*kdh.com^$script,xhr,3p
+||hhba0*kdh.com^$script,xmlhttprequest,third-party
 ||hn-ping*.hashnode.com^
 ||host*.carl-ras.dk^
 ||host*.ncoi.nl^
