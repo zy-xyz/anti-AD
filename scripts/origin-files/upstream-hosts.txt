@@ -1,11 +1,11 @@
-# hosts-0 2026-03-25 19:26:27 UTC
+# hosts-0 2026-03-28 19:07:11 UTC
 # https://malware-filter.gitlab.io/malware-filter/urlhaus-filter-hosts-online.txt
 127.0.0.1 0022a601.pphost.net
+127.0.0.1 0iwbrl.chromeflack.in.net
 127.0.0.1 1.off3.ru
 127.0.0.1 111101111.ru
 127.0.0.1 123.ywxww.net
 127.0.0.1 132.red-81-42-249.staticip.rima-tde.net
-127.0.0.1 14-0-204-188.static.pccw-hkt.com
 127.0.0.1 150.co.il
 127.0.0.1 1717.1000uc.com
 127.0.0.1 176.190.153.160.host.secureserver.net
@@ -13,12 +13,12 @@
 127.0.0.1 179.248.3.202.ll.sta.mana.pf
 127.0.0.1 1827897262.v.123pan.cn
 127.0.0.1 185-55-196-13.cprapid.com
+127.0.0.1 1att0-crest.pozellant.in.net
 127.0.0.1 2.off3.ru
-127.0.0.1 29rtrlv.cl0verrun.in.net
 127.0.0.1 2cfc0222.salamanderprocessing.pages.dev
-127.0.0.1 3urg2biz.amber-drift.in.net
+127.0.0.1 2xxws.pozellant.in.net
+127.0.0.1 59zvgq.cloudfloot.in.net
 127.0.0.1 60aaf9c6.salamanderprocessing.pages.dev
-127.0.0.1 6slp.thistlecore.in.net
 127.0.0.1 7070-ppxcx-a1-3gg5ufwp666ee644-1300076834.tcb.qcloud.la
 127.0.0.1 94fae730-597f-4442-813c-86263972a8f0.usrfiles.com
 127.0.0.1 99-118-215-24.lightspeed.irvnca.sbcglobal.net
@@ -32,6 +32,7 @@
 127.0.0.1 acms.saleseos.com
 127.0.0.1 admin.byte.in.ua
 127.0.0.1 admin.gestroom.it
+127.0.0.1 agence-immobiliere-lyon.com
 127.0.0.1 airlife.bget.ru
 127.0.0.1 alarmline.com.br
 127.0.0.1 alineeleuterio.com.br
@@ -40,18 +41,17 @@
 127.0.0.1 alternativas.ru
 127.0.0.1 anch0-bridge.withregw.in.net
 127.0.0.1 api.baimless.com
-127.0.0.1 api.ezilax.com
 127.0.0.1 apn-87-251-249-41.static.gprs.plus.pl
 127.0.0.1 app.appzcvb.com
 127.0.0.1 apple-service93.ru
 127.0.0.1 ardena.pro
 127.0.0.1 ardguisser.com
 127.0.0.1 areyouready.co.za
-127.0.0.1 arkfluxos9.gl1mmeroak.in.net
+127.0.0.1 arkline9ar.quantumharbinger.in.net
 127.0.0.1 artacom.com.br
-127.0.0.1 ashtes.cl0verrun.in.net
 127.0.0.1 asl-company.ru
 127.0.0.1 atasapka.com.tr
+127.0.0.1 athome-srw.s3.us-west-2.amazonaws.com
 127.0.0.1 atkcgnew.evgeni7e.beget.tech
 127.0.0.1 attach.mail.daum.net
 127.0.0.1 audicontadores.com
@@ -60,25 +60,21 @@
 127.0.0.1 avbackup.acionline.de
 127.0.0.1 backupallfresh2030.com
 127.0.0.1 backupso.com
-127.0.0.1 bafybeias4uzwo3l336d5ewygv2dd3oqbnlvrer5ndf5wyhjcwkm4igaafa.ipfs.w3s.link
-127.0.0.1 bafybeibfoyi7ruuyoncarf4xr55qa3lthsjjjgrktk4ia4z3upesawb4ry.ipfs.w3s.link
 127.0.0.1 bafybeibqcivjhwg2msil5g62did64uhtptlf7epidbrat4gexerzfv5mmq.ipfs.dweb.link
 127.0.0.1 bafybeibwz6lzwo6u5gkhp3ydl4te3hl3plfkypox6mnejssqwfrpdsmqoy.ipfs.dweb.link
 127.0.0.1 bafybeiccl6irsru52xsyiuy4pqlitflw4f57xovkfpk5w2wnhtmeaqpjuy.ipfs.dweb.link
 127.0.0.1 bafybeidp7zdy2lu6yxvbgoev4b6xokuaa6jljr34vkflxzel2ya2gc3plm.ipfs.dweb.link
-127.0.0.1 bafybeidv6v7pezugmfpzwl2k2ni56nhvlyv5vaibriswtsthae5loxskpi.ipfs.dweb.link
 127.0.0.1 bafybeidvf6tytrspkd4wnvxzs23m3kjr6bfvgszbfwybmmcosl4rrhvuo4.ipfs.dweb.link
 127.0.0.1 bafybeidvgy76m4r347tpqg6plr3ac2p7o5bpcluicawc25nuh7mowtkssy.ipfs.dweb.link
 127.0.0.1 bafybeiedkdwsp77zcvi6477lovtfde7rwsjdz7654kdnrgmciqg5mfhwh4.ipfs.dweb.link
-127.0.0.1 bafybeieq7tctzxkqidqpq4fjvtznbupqrpo2w4n4lfmzksehei4dinilii.ipfs.w3s.link
 127.0.0.1 bafybeiffpkay6l7heq55epccneb563p5chjzclxnso3vkozyorphlz6ana.ipfs.w3s.link
 127.0.0.1 bafybeig5e7vfagk6xs4b2kk6s2bgaqm4trr56whisnhzirxutlovqkcnli.ipfs.dweb.link
 127.0.0.1 bafybeihamvbzrm2tsifa4s7xruhfnsgnkzgtk2jqwj6cwgmdxj4wqe5lm4.ipfs.dweb.link
 127.0.0.1 bafybeihmvo5nbtacxb7bx6bzla7adpg7ldm2ud3fqbom6724ajlki42urq.ipfs.dweb.link
-127.0.0.1 bakhtov.com.ua
 127.0.0.1 balkarsoftware.cubistech.com
 127.0.0.1 bamautzky.de
 127.0.0.1 bankgarantia.ru
+127.0.0.1 bbb.xfrwu.cn
 127.0.0.1 bbos.minet.vn
 127.0.0.1 benshamcentre.co.uk
 127.0.0.1 best.obs.cn-sz1.ctyun.cn
@@ -101,6 +97,7 @@
 127.0.0.1 bruplong.oss-accelerate.aliyuncs.com
 127.0.0.1 c.fi3.me
 127.0.0.1 c0e5b87c.solaraweb-alj.pages.dev
+127.0.0.1 c0upon1-sheet.latticepatronage.in.net
 127.0.0.1 c3436037.salamanderprocessing.pages.dev
 127.0.0.1 c9791c08-f1e4-4402-9510-d04c13c50ea3.selstorage.ru
 127.0.0.1 cad.659t.cn
@@ -114,7 +111,6 @@
 127.0.0.1 cdn.ly.9377.com
 127.0.0.1 cdn.novoline.top
 127.0.0.1 cdn.xiaoduoai.com
-127.0.0.1 celebratingseniors.net
 127.0.0.1 cfs10.blog.daum.net
 127.0.0.1 cfs13.tistory.com
 127.0.0.1 cfs7.blog.daum.net
@@ -125,8 +121,8 @@
 127.0.0.1 checkinetverifk.com
 127.0.0.1 chenwangqiao.com
 127.0.0.1 chinaapper.com
-127.0.0.1 chinasite.com.br
 127.0.0.1 chiptune.com
+127.0.0.1 chuguadventures.co.tz
 127.0.0.1 chungminhtaichinhsaigon.net
 127.0.0.1 churchinmanila.org
 127.0.0.1 cl.ssouy.com
@@ -134,12 +130,13 @@
 127.0.0.1 classroomseven.com
 127.0.0.1 cliffg.me
 127.0.0.1 clipaid.app
-127.0.0.1 clisi.digifors.de
 127.0.0.1 cloudstay168.com
 127.0.0.1 clubdetiroelpicarcho.com
 127.0.0.1 cn.unionlever.com
+127.0.0.1 cnc.504.su
 127.0.0.1 cnt-logiistics.com
 127.0.0.1 co-emas.com
+127.0.0.1 compi1e-well.dockhype.in.net
 127.0.0.1 compimento.ba
 127.0.0.1 compuserviceonline.com.br
 127.0.0.1 contentmentfairnesspesky.com
@@ -153,24 +150,23 @@
 127.0.0.1 creativevoltage.com
 127.0.0.1 crimefreesoftware.com
 127.0.0.1 crixup.com
-127.0.0.1 crm.razatelefonia.pro
 127.0.0.1 crystalpvp.ru
 127.0.0.1 cs.go.kg
 127.0.0.1 csg-app.com
 127.0.0.1 ct3-24.ru
 127.0.0.1 cutting-edge.in
 127.0.0.1 d.14yaa.com
+127.0.0.1 d.kpzip.com
 127.0.0.1 d.wanyouxi7.com
 127.0.0.1 d2314eac.solaraweb-alj.pages.dev
 127.0.0.1 d3cciiowg5l3jx.cloudfront.net
-127.0.0.1 d3ep-cast.amber-drift.in.net
 127.0.0.1 data.yhydl.com
+127.0.0.1 dcrun.co.uk
+127.0.0.1 decodeass.dockhype.in.net
 127.0.0.1 def163.keenetic.pro
-127.0.0.1 definitely-not.gay
 127.0.0.1 delp-heizungsbau.de
 127.0.0.1 deltabehavioralhealth.org
 127.0.0.1 derekludlow.com
-127.0.0.1 designtrigger.gl1mmeroak.in.net
 127.0.0.1 devilnet.xyz
 127.0.0.1 dexios.co.za
 127.0.0.1 dezcom.com
@@ -181,7 +177,6 @@
 127.0.0.1 dl.2345.com
 127.0.0.1 dl.aginjector.com
 127.0.0.1 dl.armour-inc-down.net
-127.0.0.1 dl.dzqzd.com
 127.0.0.1 dl.natgo.cn
 127.0.0.1 dlied6.bytes.tcdnos.com
 127.0.0.1 dlied6.yz.tcdnos.com
@@ -212,32 +207,40 @@
 127.0.0.1 dubapkg.cmcmcdn.com
 127.0.0.1 dusttv.com
 127.0.0.1 dweixin.cn
+127.0.0.1 e457.pozellant.in.net
 127.0.0.1 easybrand.vn
+127.0.0.1 eglimermailer.org
 127.0.0.1 electri.billregulator.com
 127.0.0.1 elisans.novayonetim.com
 127.0.0.1 embedone.com
 127.0.0.1 en.taichuan.com
 127.0.0.1 energy63.ru
 127.0.0.1 epanpano.com
+127.0.0.1 esr.ro
 127.0.0.1 estudio.ythan.com.br
+127.0.0.1 etinsendmail.com
+127.0.0.1 etinsendmail.net
+127.0.0.1 etinsendmail.org
 127.0.0.1 evangroup.ru
 127.0.0.1 everycarebd.com
+127.0.0.1 f0x8-frame.dockhype.in.net
 127.0.0.1 f24-zfcloud.zdn.vn
 127.0.0.1 f3i5-0g49bgn-3h95-1324992141.cos.ap-jakarta.myqcloud.com
 127.0.0.1 fakers.co.jp
 127.0.0.1 fb6390d5.infinityindians.pages.dev
+127.0.0.1 femilamom.net
 127.0.0.1 fenbushijujuefuwu.com
 127.0.0.1 fertas.com.tr
+127.0.0.1 ffvwks.chromeflack.in.net
 127.0.0.1 file.blackint3.com
-127.0.0.1 file.uhsea.com
 127.0.0.1 filezilla.cc
 127.0.0.1 first-security-verden.de
 127.0.0.1 flybirdexpbd.com
 127.0.0.1 flyingmutts.com
 127.0.0.1 fnvimoyvwkbxbmczlqus.supabase.co
+127.0.0.1 focu-stream.latticepatronage.in.net
 127.0.0.1 forms.saurashtrauniversity.edu
 127.0.0.1 forspeed.onlinedown.net
-127.0.0.1 fotosdepuebla.org
 127.0.0.1 frvrefrigeracao.com.br
 127.0.0.1 frygzjyhtiunvhvnacif.supabase.co
 127.0.0.1 ftp.ywxww.net
@@ -246,21 +249,20 @@
 127.0.0.1 galeri3.arkitera.com
 127.0.0.1 galerisenimutiara.com
 127.0.0.1 gateway.lighthouse.storage
-127.0.0.1 gharnt.com
+127.0.0.1 gerlimeri.net
+127.0.0.1 gerlimeri.org
 127.0.0.1 github.guru
 127.0.0.1 globaltechbilling.com
-127.0.0.1 glyph-panel.gl1mmeroak.in.net
-127.0.0.1 googmeetinginvitation.com
 127.0.0.1 goto.stnts.com
 127.0.0.1 gutando.com
 127.0.0.1 haeum.nfile.net
 127.0.0.1 hasalltalent.com
+127.0.0.1 hasteb.in
 127.0.0.1 hhbs.hhu.edu.cn
 127.0.0.1 higreens.co.in
 127.0.0.1 hitman-pro.ru
 127.0.0.1 hitstation.nl
 127.0.0.1 hnjgdl.geps.glodon.com
-127.0.0.1 hobobot.net
 127.0.0.1 horion-static.pages.dev
 127.0.0.1 host-195-103-203-106.business.telecomitalia.it
 127.0.0.1 host-95-230-215-65.business.telecomitalia.it
@@ -273,6 +275,7 @@
 127.0.0.1 i.404.pm
 127.0.0.1 ibnbatutta.pk
 127.0.0.1 icoffeecloud.com
+127.0.0.1 icupsa.com.mx
 127.0.0.1 id3basketball.com
 127.0.0.1 ihmmkvkaiwnilneauhfn.supabase.co
 127.0.0.1 imagefiles-backup.oss-ap-southeast-7.aliyuncs.com
@@ -287,7 +290,6 @@
 127.0.0.1 izocab.com
 127.0.0.1 izogard.com
 127.0.0.1 j-0-09g-9bh-h-ggf-1324992141.cos.ap-bangkok.myqcloud.com
-127.0.0.1 jalebel7abeb.com
 127.0.0.1 jawaratekno.com
 127.0.0.1 jd-forever.com
 127.0.0.1 jozefinskiatelje.si
@@ -295,8 +297,10 @@
 127.0.0.1 kamin-premium.ru
 127.0.0.1 kavacanada.ca
 127.0.0.1 kavyasourcing.com
+127.0.0.1 kelvenon1.chromeflack.in.net
 127.0.0.1 khoancatbetong89.vn
 127.0.0.1 km.tradeforexcopier.com
+127.0.0.1 kokorostore.it
 127.0.0.1 konsor.ru
 127.0.0.1 kotogadang-pusako.com
 127.0.0.1 kotojuki.com
@@ -304,24 +308,25 @@
 127.0.0.1 krisidev.com
 127.0.0.1 kuakuawenjian.oss-cn-hangzhou.aliyuncs.com
 127.0.0.1 kuzina-teatr.ru
-127.0.0.1 la-pan-adventures.com
 127.0.0.1 landonirwin.com
 127.0.0.1 lcportal.kbinsure.co.kr
+127.0.0.1 lecbyj6.nexuspatronage.in.net
 127.0.0.1 leindisncieamrocea-1341831283.cos.sa-saopaulo.myqcloud.com
 127.0.0.1 libretv-16e.pages.dev
 127.0.0.1 libss.0x504.com
-127.0.0.1 lidx4.dawnspire.in.net
 127.0.0.1 lindenappliances.co.za
 127.0.0.1 lindnerelektroanlagen.de
+127.0.0.1 linkclie.pozellant.in.net
 127.0.0.1 local-update.com
 127.0.0.1 lomejordesalamanca.es
 127.0.0.1 lon-01.dlo4d.com
 127.0.0.1 longfeng188.com
+127.0.0.1 lqlk.zenithharbinger.in.net
 127.0.0.1 luizmatoso.com.br
 127.0.0.1 m.jkoa.co.kr
 127.0.0.1 m.meta-dm.com
-127.0.0.1 m0nit7-layer.dawnspire.in.net
 127.0.0.1 maidforyou1985.com
+127.0.0.1 mainly-trim-lizard.cloudpub.ru
 127.0.0.1 makotoko.com
 127.0.0.1 malupieng.com.br
 127.0.0.1 matthewsigmondv5.pages.dev
@@ -339,6 +344,7 @@
 127.0.0.1 mobimpex.ro
 127.0.0.1 mobshah.com
 127.0.0.1 mogimall.com
+127.0.0.1 move-friendly-international-observed.trycloudflare.com
 127.0.0.1 movseek.pages.dev
 127.0.0.1 movtime76.shop
 127.0.0.1 msoftdatastore.z22.web.core.windows.net
@@ -347,30 +353,29 @@
 127.0.0.1 muzzumilruheel.com
 127.0.0.1 myvcart.com
 127.0.0.1 n.vs108.com
-127.0.0.1 nabfk.amber-drift.in.net
 127.0.0.1 namaacont.com
 127.0.0.1 namuvpn.com
 127.0.0.1 ncxps.com
 127.0.0.1 ndown2.ra2ol.com
 127.0.0.1 nelees.com
-127.0.0.1 neo-5un.crestfall.in.net
 127.0.0.1 neo-rnount.withregw.in.net
 127.0.0.1 nerve.untergrund.net
 127.0.0.1 netrip.ddns.net
 127.0.0.1 newkey.co.kr
+127.0.0.1 night-client-hub.lovable.app
+127.0.0.1 nimblestitch.apexharvestor.in.net
 127.0.0.1 nlcygd.withregw.in.net
 127.0.0.1 noithaticon.vn
+127.0.0.1 nortideix9.chromeflack.in.net
 127.0.0.1 notbak.com
-127.0.0.1 nusatoyota.co.id
 127.0.0.1 ny.lshdw.cc
 127.0.0.1 o24o.ru
-127.0.0.1 offvisual.stone-blink.in.net
 127.0.0.1 ofice365.github.io
 127.0.0.1 ojang.pe.kr
 127.0.0.1 okhan.net
-127.0.0.1 oknoplastik.sk
 127.0.0.1 old.bullydog.com
 127.0.0.1 onfiltre.com.tr
+127.0.0.1 onlineappdownload.507.net.cn
 127.0.0.1 onyxarmorcrypt.de
 127.0.0.1 onyxcyberedge.de
 127.0.0.1 onyxfortifypro.de
@@ -384,53 +389,47 @@
 127.0.0.1 onyxsentinelx.de
 127.0.0.1 onyxstealthnet.de
 127.0.0.1 opticsval.withregw.in.net
-127.0.0.1 oqtxen.stone-blink.in.net
 127.0.0.1 owlcity.ru
 127.0.0.1 oxfordmobilexray.com
 127.0.0.1 oys0ro.static.otenet.gr
 127.0.0.1 p3.zbjimg.com
 127.0.0.1 paccbet.pages.dev
+127.0.0.1 pale-line.momentumbloomera.in.net
 127.0.0.1 palharesinformatica.com.br
 127.0.0.1 pamellioty.com
 127.0.0.1 paradox924x.pages.dev
 127.0.0.1 pardu.pages.dev
-127.0.0.1 pastebin.cz
 127.0.0.1 patricstoremegans2.com
-127.0.0.1 patte-span.crestfall.in.net
 127.0.0.1 pay.aqiu6.com
-127.0.0.1 payloadcinema.crestfall.in.net
 127.0.0.1 pcupd.com
 127.0.0.1 pid.fly160.com
-127.0.0.1 pizzatang.net
+127.0.0.1 pilhar.dockhype.in.net
 127.0.0.1 pjsn.hi2.ro
 127.0.0.1 planetariumobil.ro
 127.0.0.1 pns.org.pk
 127.0.0.1 pobedastaff.ru
+127.0.0.1 pol43-plate.nexuspatronage.in.net
 127.0.0.1 pole-rt-inger.com
 127.0.0.1 polonyauniversiteleri.com.tr
-127.0.0.1 pornily.ai
 127.0.0.1 posicionamientonatural.es
-127.0.0.1 post-host.screenconnect.com
 127.0.0.1 prepstarcenter.com
 127.0.0.1 procuratio.nu
 127.0.0.1 programandojuntos.us.tempcloudsite.com
 127.0.0.1 projetodegente.com
 127.0.0.1 proto-h4ul.withregw.in.net
-127.0.0.1 proveedoradeproyectosysoluciones.com
+127.0.0.1 proto-pub1.apexharvestor.in.net
 127.0.0.1 pub-0478b308b8cf46709a73d0eed5afd633.r2.dev
 127.0.0.1 pub-1445de8c8aa84761aac5200e0036237d.r2.dev
+127.0.0.1 pub-3bc1de741f8149f49bdbafa703067f24.r2.dev
 127.0.0.1 pub-bbbdebc2599c4d74b04c5d53e439f7a7.r2.dev
 127.0.0.1 pub-bfc34934a91a4893817098f73415917a.r2.dev
 127.0.0.1 pub-cdd0dd27ae6a4aee9841d397e0496374.r2.dev
 127.0.0.1 pub-ce02802067934e0eb072f69bf6427bf6.r2.dev
 127.0.0.1 public.demo.securecloudsandbox.com
 127.0.0.1 pvsa.gxfugy.cn
-127.0.0.1 qfvn0y.gl1mmeroak.in.net
-127.0.0.1 qiauhat.dawnspire.in.net
 127.0.0.1 qiniuyunxz.yxflzs.com
-127.0.0.1 quorcoreix1.thistlecore.in.net
-127.0.0.1 quot-isle.amber-drift.in.net
 127.0.0.1 r34fa352.duckdns.org
+127.0.0.1 railglyph.zenithharbinger.in.net
 127.0.0.1 ramirex.ro
 127.0.0.1 raw.flameblox.com
 127.0.0.1 rdm.91yunma.cn
@@ -440,27 +439,28 @@
 127.0.0.1 refaccionesalma.com.mx
 127.0.0.1 refrigeracion.delmondexpress.com
 127.0.0.1 reifenquick.de
-127.0.0.1 resourceedge.org
 127.0.0.1 reusable-flex.com
 127.0.0.1 rheddh.com
 127.0.0.1 riderspin.com
 127.0.0.1 robertrowe.com
-127.0.0.1 roverlink.io
+127.0.0.1 roufal.covenantventure.in.net
 127.0.0.1 rrhh.intelsolut.com
 127.0.0.1 rxquickpay.com
 127.0.0.1 sabungkingbet189.com
 127.0.0.1 saf-oil.ru
 127.0.0.1 salonmarketing.ca
 127.0.0.1 sanghyun.nfile.net
-127.0.0.1 sanjaydharmraj.in
 127.0.0.1 save.jnrsmcu.com
 127.0.0.1 sbstorage.club
 127.0.0.1 scainseto.com.br
-127.0.0.1 schenckel.com.br
+127.0.0.1 scan.504.su
+127.0.0.1 sdhscndnssl.beer
 127.0.0.1 sdvgpro.ru
 127.0.0.1 sec.xiaoshabi.nl
 127.0.0.1 separadordecc.com
 127.0.0.1 serasoo.direct.quickconnect.to
+127.0.0.1 serdraos.momentumbloomera.in.net
+127.0.0.1 sertideos6.dockhype.in.net
 127.0.0.1 server.toeicswt.co.kr
 127.0.0.1 sg123.net
 127.0.0.1 sgeseducation.com
@@ -482,10 +482,10 @@
 127.0.0.1 softdl.360tpcdn.com
 127.0.0.1 softdl2.360tpcdn.com
 127.0.0.1 softdl4.360.cn
-127.0.0.1 solarpri.crestfall.in.net
+127.0.0.1 solar-sanat.net
+127.0.0.1 soltidea3.pozellant.in.net
 127.0.0.1 solutelco.com
 127.0.0.1 spacemanslot88.games
-127.0.0.1 spoar.org.in
 127.0.0.1 ss-01.com
 127.0.0.1 ssl.ftp21.cc
 127.0.0.1 sta.qinxue.com
@@ -496,17 +496,20 @@
 127.0.0.1 static.youdm.cn
 127.0.0.1 static.zongheng.com
 127.0.0.1 stdown.dinju.com
+127.0.0.1 steam66.cn
+127.0.0.1 steamrub.com
+127.0.0.1 stonecradle.com
 127.0.0.1 streammobs.com
 127.0.0.1 studiogioeli.it
 127.0.0.1 supercleanspb.ru
 127.0.0.1 support-data.com
 127.0.0.1 support.clz.kr
-127.0.0.1 survebroa.dawnspire.in.net
 127.0.0.1 sutterpoint.com
 127.0.0.1 svirtual.sanviatorperu.edu.pe
 127.0.0.1 swiftfusion.tech
 127.0.0.1 synergyconsulting.us
 127.0.0.1 tajalrayhan.com
+127.0.0.1 tal-marka.radiantprospera.in.net
 127.0.0.1 talentrecruitments.com
 127.0.0.1 tanscarattorneys.co.tz
 127.0.0.1 tdejb.com
@@ -517,24 +520,24 @@
 127.0.0.1 teslasuit.to
 127.0.0.1 test.aionclassic.pro
 127.0.0.1 test.peperoncinochepassione.it
-127.0.0.1 tests.yjzj.org
 127.0.0.1 thebrandmantra.in
 127.0.0.1 theholidayroads.com
+127.0.0.1 thementordirectory.com
 127.0.0.1 theoremaoliveoil.com
 127.0.0.1 thtp2.volamngayxua.net
-127.0.0.1 timbe-well.velorune.in.net
 127.0.0.1 tiwanlinm.duckdns.org
 127.0.0.1 tmcksa.com
 127.0.0.1 tobecation.github.io
+127.0.0.1 todayallmatchprediction.com
 127.0.0.1 toolshare.com.tr
 127.0.0.1 top8onlinegame.com
-127.0.0.1 transdea.crestfall.in.net
 127.0.0.1 transfer.weepee.io
 127.0.0.1 trtmyanmar.com
 127.0.0.1 twitch.ist
 127.0.0.1 tyahelp.top
 127.0.0.1 udobrit.ru
 127.0.0.1 ukguk71.ru
+127.0.0.1 ukswf.covenantventure.in.net
 127.0.0.1 un1rw11q4u.com
 127.0.0.1 uniform-factory.ae
 127.0.0.1 union.macoms.la
@@ -549,8 +552,7 @@
 127.0.0.1 vaamsmgfreocmroe-1342087530.cos.sa-saopaulo.myqcloud.com
 127.0.0.1 vagler.ru
 127.0.0.1 vaibhavtripathi.in
-127.0.0.1 vedantawisdom.org
-127.0.0.1 velmarka.velorune.in.net
+127.0.0.1 vehb.chromeflack.in.net
 127.0.0.1 versaclean.com.br
 127.0.0.1 veryboys.com
 127.0.0.1 vgd.vg
@@ -560,25 +562,24 @@
 127.0.0.1 visualwikicloud.com
 127.0.0.1 vizyonuniversitesi.com.tr
 127.0.0.1 vizyonuniversitesi.web.tr
-127.0.0.1 vorfluxet.gl1mmeroak.in.net
-127.0.0.1 vorvenen2.dawnspire.in.net
 127.0.0.1 vrajras.com
 127.0.0.1 vuelaviajero.com
-127.0.0.1 webdriver-select.vg
 127.0.0.1 website.mypetapp.co.za
 127.0.0.1 websitedesigningindia.biz
 127.0.0.1 weco2.oss-me-east-1.aliyuncs.com
 127.0.0.1 wegrowcoaching.com
+127.0.0.1 whreceiverrrrrrrrr.ru
 127.0.0.1 widexenmexico.com.mx
 127.0.0.1 win.down.55kantu.com
 127.0.0.1 windomstatetheater.com
 127.0.0.1 windriversfiles.imeitools.com
 127.0.0.1 wire2spell.com
 127.0.0.1 wittenhorst.eu
+127.0.0.1 woonort.redbyte.in.net
 127.0.0.1 wpgbf1zg-5500.euw.devtunnels.ms
-127.0.0.1 wwklydao.amber-drift.in.net
 127.0.0.1 www999999asgasg-1327129302.cos.ap-chengdu.myqcloud.com
 127.0.0.1 www999999safagqwhg-1327129302.cos.ap-chengdu.myqcloud.com
+127.0.0.1 wylzkl.vectorprospera.in.net
 127.0.0.1 xanax.enzostress.st
 127.0.0.1 xdcq3.com
 127.0.0.1 xenon.studio
@@ -588,6 +589,7 @@
 127.0.0.1 xn--yh4bx88a.com
 127.0.0.1 xshop.com.tr
 127.0.0.1 xuezha.net
+127.0.0.1 xuyk.radiantprospera.in.net
 127.0.0.1 xww.bucea.edu.cn
 127.0.0.1 xyfsd.com
 127.0.0.1 ybgctdtbzvgpdxjivafy.supabase.co
@@ -595,9 +597,10 @@
 127.0.0.1 youtransfer.net
 127.0.0.1 zamilgroups.com
 127.0.0.1 zhigao5191.com
-127.0.0.1 zonawood.org
+127.0.0.1 zhikey.com
+127.0.0.1 zwyyuczn.vectorprospera.in.net
 127.0.0.1 zycdjz.com
-# hosts-1 2026-03-25 19:26:27 UTC
+# hosts-1 2026-03-28 19:07:11 UTC
 # https://raw.githubusercontent.com/lingeringsound/10007/main/all
 127.0.0.1 0.r.msn.com
 127.0.0.1 0127.adsame.com
@@ -17651,7 +17654,7 @@
 127.0.0.1 zww.ero-advertising.com
 127.0.0.1 zx.da.mgtv.com
 127.0.0.1 zz.bdstatic.com
-# hosts-2 2026-03-25 19:26:27 UTC
+# hosts-2 2026-03-28 19:07:11 UTC
 # https://raw.githubusercontent.com/jdlingyu/ad-wars/master/hosts
 127.0.0.1 03.lzzncm.com
 127.0.0.1 04.lzzncm.com
@@ -19298,7 +19301,7 @@
 127.0.0.1 zvs2.cnzz.com
 127.0.0.1 zx.da.mgtv.com
 127.0.0.1 zz.bdstatic.com
-# hosts-3 2026-03-25 19:26:27 UTC
+# hosts-3 2026-03-28 19:07:11 UTC
 # https://raw.githubusercontent.com/crazy-max/WindowsSpyBlocker/master/data/hosts/spy.txt
 127.0.0.1 1oavsblobprodcus350.blob.core.windows.net
 127.0.0.1 37bvsblobprodcus311.blob.core.windows.net
@@ -19647,21 +19650,21 @@
 127.0.0.1 win8.ipv6.microsoft.com
 127.0.0.1 xblgdvrassets3010.blob.core.windows.net
 127.0.0.1 ztd.dds.microsoft.com
-# hosts-4 2026-03-25 19:26:27 UTC
+# hosts-4 2026-03-28 19:07:11 UTC
 # https://easylist-downloads.adblockplus.org/antiadblockfilters.txt
-# hosts-5 2026-03-25 19:26:27 UTC
+# hosts-5 2026-03-28 19:07:11 UTC
 # https://easylist-downloads.adblockplus.org/easylistchina.txt
-# hosts-6 2026-03-25 19:26:28 UTC
+# hosts-6 2026-03-28 19:07:11 UTC
 # https://filters.adtidy.org/android/filters/15_optimized.txt
-# hosts-7 2026-03-25 19:26:28 UTC
+# hosts-7 2026-03-28 19:07:11 UTC
 # https://filters.adtidy.org/extension/ublock/filters/224.txt
-# hosts-8 2026-03-25 19:26:29 UTC
+# hosts-8 2026-03-28 19:07:11 UTC
 # https://filters.adtidy.org/extension/ublock/filters/11.txt
-# hosts-9 2026-03-25 19:26:29 UTC
+# hosts-9 2026-03-28 19:07:11 UTC
 # https://github.com/Potterli20/file/releases/download/github-hosts/Accelerate-Hosts.txt
-# hosts-10 2026-03-25 19:26:29 UTC
+# hosts-10 2026-03-28 19:07:11 UTC
 # https://anti-ad.net/easylist.txt
-# hosts-11 2026-03-25 19:26:29 UTC
+# hosts-11 2026-03-28 19:07:12 UTC
 # https://raw.githubusercontent.com/VeleSila/yhosts/master/hosts
 127.0.0.1 0.r.msn.com
 127.0.0.1 0.up.qingdaonews.com
@@ -26080,51 +26083,51 @@
 127.0.0.1 zzy1.mipujia.com
 127.0.0.1 zzy1.weibopie.com
 127.0.0.1 zzys.haha5.cn
-# hosts-12 2026-03-25 19:26:30 UTC
+# hosts-12 2026-03-28 19:07:12 UTC
 # https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockfilters.txt
-# hosts-13 2026-03-25 19:26:30 UTC
+# hosts-13 2026-03-28 19:07:12 UTC
 # https://raw.githubusercontent.com/pboymt/Steam520/main/hosts
-# hosts-14 2026-03-25 19:26:30 UTC
+# hosts-14 2026-03-28 19:07:12 UTC
 # https://raw.githubusercontent.com/rentianyu/Ad-set-hosts/master/adguard
-# hosts-15 2026-03-25 19:26:30 UTC
+# hosts-15 2026-03-28 19:07:12 UTC
 # https://lingeringsound.github.io/adblock_auto/Rules/adblock_auto.txt
-# hosts-16 2026-03-25 19:26:31 UTC
+# hosts-16 2026-03-28 19:07:12 UTC
 # https://lingeringsound.github.io/adblock_auto/Rules/adblock_auto_lite.txt
-# hosts-17 2026-03-25 19:26:31 UTC
+# hosts-17 2026-03-28 19:07:12 UTC
 # https://raw.fgit.ml/lingeringsound/adblock/master/Toutiao_block.txt
-# hosts-18 2026-03-25 19:26:31 UTC
+# hosts-18 2026-03-28 19:07:13 UTC
 # https://raw.githubusercontent.com/uniartisan/adblock_list/master/adblock_plus.txt
-# hosts-19 2026-03-25 19:26:32 UTC
+# hosts-19 2026-03-28 19:07:13 UTC
 # https://raw.githubusercontent.com/uniartisan/adblock_list/master/adblock_privacy.txt
-# hosts-20 2026-03-25 19:26:32 UTC
+# hosts-20 2026-03-28 19:07:13 UTC
 # https://raw.githubusercontent.com/xinggsf/Adblock-Plus-Rule/master/rule.txt
-# hosts-21 2026-03-25 19:26:32 UTC
+# hosts-21 2026-03-28 19:07:13 UTC
 # https://raw.githubusercontent.com/xinggsf/Adblock-Plus-Rule/master/mv.txt
-# hosts-22 2026-03-25 19:26:32 UTC
+# hosts-22 2026-03-28 19:07:14 UTC
 # https://raw.githubusercontent.com/banbendalao/ADgk/master/ADgk.txt
-# hosts-23 2026-03-25 19:26:33 UTC
+# hosts-23 2026-03-28 19:07:14 UTC
 # https://raw.githubusercontent.com/banbendalao/ADgk/master/kill-baidu-ad.txt
-# hosts-24 2026-03-25 19:26:33 UTC
+# hosts-24 2026-03-28 19:07:14 UTC
 # https://raw.githubusercontent.com/jianboy/github-host/master/hosts
-# hosts-25 2026-03-25 19:26:33 UTC
+# hosts-25 2026-03-28 19:07:14 UTC
 # https://raw.githubusercontent.com/damengzhu/banad/main/jiekouAD.txt
-# hosts-26 2026-03-25 19:26:33 UTC
+# hosts-26 2026-03-28 19:07:14 UTC
 # https://raw.githubusercontent.com/zsakvo/AdGuard-Custom-Rule/master/rule/zhihu-strict.txt
-# hosts-27 2026-03-25 19:26:33 UTC
+# hosts-27 2026-03-28 19:07:14 UTC
 # https://small.oisd.nl/
-# hosts-28 2026-03-25 19:26:34 UTC
+# hosts-28 2026-03-28 19:07:15 UTC
 # https://raw.githubusercontent.com/francis-zhao/quarklist/master/dist/quarklist.txt
-# hosts-29 2026-03-25 19:26:34 UTC
+# hosts-29 2026-03-28 19:07:15 UTC
 # https://raw.githubusercontent.com/neodevpro/neodevhost/master/lite_adblocker
-# hosts-30 2026-03-25 19:26:34 UTC
+# hosts-30 2026-03-28 19:07:15 UTC
 # https://raw.githubusercontent.com/Cats-Team/AdRules/main/adblock_lite.txt
-# hosts-31 2026-03-25 19:26:35 UTC
+# hosts-31 2026-03-28 19:07:15 UTC
 # https://gitlab.com/ineo6/hosts/-/raw/master/next-hosts
-# hosts-32 2026-03-25 19:26:35 UTC
+# hosts-32 2026-03-28 19:07:15 UTC
 # https://raw.hellogithub.com/hosts
-# hosts-33 2026-03-25 19:26:36 UTC
+# hosts-33 2026-03-28 19:07:16 UTC
 # https://raw.githubusercontent.com/Noyllopa/NoAppDownload/master/NoAppDownload.txt
-# hosts-34 2026-03-25 19:26:36 UTC
+# hosts-34 2026-03-28 19:07:16 UTC
 # https://raw.githubusercontent.com/jdlingyu/ad-wars/master/hosts
 127.0.0.1 03.lzzncm.com
 127.0.0.1 04.lzzncm.com
@@ -27771,11 +27774,11 @@
 127.0.0.1 zvs2.cnzz.com
 127.0.0.1 zx.da.mgtv.com
 127.0.0.1 zz.bdstatic.com
-# hosts-35 2026-03-25 19:26:36 UTC
+# hosts-35 2026-03-28 19:07:16 UTC
 # https://raw.githubusercontent.com/TG-Twilight/AWAvenue-Ads-Rule/main/AWAvenue-Ads-Rule.txt
-# hosts-36 2026-03-25 19:26:36 UTC
+# hosts-36 2026-03-28 19:07:16 UTC
 # https://cdn.jsdelivr.net/gh/sbwml/halflife-list@master/ad.txt
-# hosts-37 2026-03-25 19:26:36 UTC
+# hosts-37 2026-03-28 19:07:17 UTC
 # https://raw.githubusercontent.com/596546419/ad-filters-subscriber/main/rule/local-rule.txt
 127.0.0.1 360buyimg.com
 127.0.0.1 abtest-ch.snssdk.com
@@ -27873,21 +27876,21 @@
 127.0.0.1 www.miuipro.info
 127.0.0.1 xlog.jd.com
 127.0.0.1 yt-adp.nosdn.127.net
-# hosts-38 2026-03-25 19:26:36 UTC
+# hosts-38 2026-03-28 19:07:17 UTC
 # https://raw.githubusercontent.com/8680/GOODBYEADS/master/data/rules/adblock.txt
-# hosts-39 2026-03-25 19:26:36 UTC
+# hosts-39 2026-03-28 19:07:17 UTC
 # https://raw.githubusercontent.com/8680/GOODBYEADS/master/data/rules/allow.txt
-# hosts-40 2026-03-25 19:26:37 UTC
+# hosts-40 2026-03-28 19:07:17 UTC
 # https://raw.githubusercontent.com/zsokami/ACL4SSR/main/hosts 
-# hosts-41 2026-03-25 19:26:37 UTC
+# hosts-41 2026-03-28 19:07:17 UTC
 # https://raw.githubusercontent.com/Clov614/SteamHostSync/main/Hosts
-# hosts-42 2026-03-25 19:26:37 UTC
+# hosts-42 2026-03-28 19:07:17 UTC
 # https://github.com/entr0pia/fcm-hosts/raw/fcm/fcm-hosts
-# hosts-43 2026-03-25 19:26:37 UTC
+# hosts-43 2026-03-28 19:07:17 UTC
 # https://raw.githubusercontent.com/JohyC/Hosts/refs/heads/main/hosts.txt
-# hosts-44 2026-03-25 19:26:37 UTC
+# hosts-44 2026-03-28 19:07:17 UTC
 # https://raw.githubusercontent.com/geoisam/FuckScripts/main/adfuck.txt
-# hosts-ACL4SSR-BanAD 2026-03-25 19:26:37 UTC
+# hosts-ACL4SSR-BanAD 2026-03-28 19:07:17 UTC
 # https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/BanAD.list
 127.0.0.1 09mk.cn
 127.0.0.1 100peng.com
@@ -28452,7 +28455,7 @@
 127.0.0.1 zhjfad.com
 127.0.0.1 zqzxz.com
 127.0.0.1 zzsx8.com
-# hosts-ACL4SSR-BanProgramAD 2026-03-25 19:26:37 UTC
+# hosts-ACL4SSR-BanProgramAD 2026-03-28 19:07:17 UTC
 # https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/BanProgramAD.list
 127.0.0.1 1.letvlive.com
 127.0.0.1 1.win7china.com
@@ -29434,7 +29437,7 @@
 127.0.0.1 zymo.mps.weibo.com
 127.0.0.1 zz.bdstatic.com
 127.0.0.1 zzy1.quyaoya.com
-# hosts-v2fly-dlcads 2026-03-25 19:26:37 UTC
+# hosts-v2fly-dlcads 2026-03-28 19:07:17 UTC
 # https://github.com/v2fly/domain-list-community/archive/master.tar.gz
 127.0.0.1 51.la
 127.0.0.1 51y5.net
@@ -29561,7 +29564,7 @@
 127.0.0.1 zhugeio.com
 127.0.0.1 zxid-api.mobileservice.cn
 127.0.0.1 zxid-m.mobileservice.cn
-# hosts-origin-block 2026-03-25 19:26:37 UTC
+# hosts-origin-block 2026-03-28 19:07:17 UTC
 # ./scripts/origin-files/anti-ad-origin-block.txt @adlist-maker
 127.0.0.1 abc.kfyg.xyz
 127.0.0.1 ad-market.vivo.com.cn
@@ -29612,7 +29615,7 @@
 127.0.0.1 wof.hnltcw.com
 127.0.0.1 xopf.lhy1.xyz
 127.0.0.1 yoke.jyhlo0.com
-# hosts-yhosts-latest 2026-03-25 19:26:37 UTC
+# hosts-yhosts-latest 2026-03-28 19:07:17 UTC
 # ./scripts/origin-files/yhosts-latest.txt @adlist-maker
 127.0.0.1 0.r.msn.com
 127.0.0.1 0.up.qingdaonews.com
