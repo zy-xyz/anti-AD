@@ -78,8 +78,11 @@
 @@||ads.twitter.com^$popup
 @@||ads.vk.com^
 @@||ads.vk.com^$popup
+@@||ads.vk.ru^
+@@||ads.vk.ru^$popup
 @@||ads.x.com^
 @@||ads.x.com^$popup
+@@||ads.yandex.com^$~third-party
 @@||adsense.woso.cn^$~3p
 @@||adsense.woso.cn^$~third-party
 @@||adv.asahi.com^$popup
@@ -87,6 +90,8 @@
 @@||adv.gg^$popup
 @@||adv.lack-girl.com^$popup
 @@||adv.welaika.com^$popup
+@@||adv.yandex.com^$~third-party
+@@||adv.yandex.ru^$~third-party
 @@||advert.kf5.com^
 @@||advertisement.taobao.com^
 @@||advertising.yahoo.com^$~third-party
