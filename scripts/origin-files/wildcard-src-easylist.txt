@@ -339,6 +339,7 @@
 ||ipssn.haffo*.com^$third-party
 ||iptracker-lb-*.amazonaws.com^
 ||ir-new-cdn-eu-west-*-hb.rayjump.com^
+||ja*.apppure.net^
 ||ja*.gamersky.com^
 ||js*.abolezi.com^
 ||js*.iislm.com^$third-party
