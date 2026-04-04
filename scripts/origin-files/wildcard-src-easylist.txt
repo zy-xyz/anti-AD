@@ -364,6 +364,7 @@
 ||log*.vietnamplus.vn^
 ||log*.zijieapi.com^
 ||log-*.epicdn.me^
+||log-*.isnssdk.com^
 ||log-*.previewnetworks.com^
 ||log-*.zadn.vn^
 ||log-api.pangolin-sdk-toutiao-*.com^
@@ -443,6 +444,7 @@
 ||parkdomainreal*.site^$third-party
 ||partner.superbahisaffiliates*.com^
 ||pijama.*.elasticbeanstalk.com^
+||ping*.bidease.com^
 ||ping*.qq.com^
 ||ping.*.sogou.com^
 ||piwik.*.vn^
