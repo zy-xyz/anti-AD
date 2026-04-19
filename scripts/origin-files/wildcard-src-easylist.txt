@@ -336,6 +336,7 @@
 ||imp-*.jampp.com^
 ||impservice*.yodao.com^
 ||impservice*.youdao.com^
+||increase-rev*.static-cloudflare.workers.dev^
 ||install*.zonastat.com^
 ||ipssn.haffo*.com^$third-party
 ||iptracker-lb-*.amazonaws.com^

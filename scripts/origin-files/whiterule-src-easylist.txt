@@ -358,6 +358,7 @@
 @@||onet.pl^$generichide,badfilter
 @@||onl.bz^
 @@||online.cosmosbank.in^$document
+@@||open.video^$script,~third-party
 @@||optout.networkadvertising.org^$document
 @@||optout.rlcdn.com^
 @@||ov-chipkaart.nl^$extension
