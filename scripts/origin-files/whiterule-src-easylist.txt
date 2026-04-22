@@ -294,6 +294,7 @@
 @@||iufostworldcongress-singapore.com^
 @@||jccsmart.com^$stealth
 @@||kiplinger.112.2o7.net^
+@@||kobieta.wp.pl^$elemhide,badfilter
 @@||komputerswiat.pl^$generichide,badfilter
 @@||konto.play.pl^$extension
 @@||konto.play.pl^$stealth
@@ -378,7 +379,6 @@
 @@||pics.porn300.com^
 @@||pics.porndroids.com^
 @@||pilet.elron.ee^$extension
-@@||pilot.wp.pl^$generichide,badfilter
 @@||pingjs.qq.com^$~3p
 @@||pingjs.qq.com^$~third-party
 @@||pixel.prime.amazon.dev^
@@ -444,7 +444,6 @@
 @@||stats.britishbaseball.org.uk^
 @@||stats.gov.cn^
 @@||stats.uptimerobot.com^
-@@||steamgamesales.com^$urlblock
 @@||steampiay.cc^$stealth
 @@||storage.live.com^
 @@||streanplay.cc^$stealth
@@ -525,7 +524,6 @@
 @@||wl.jd.com^
 @@||wp.pl^$script,image
 @@||wsr.pearsonvue.com^$extension
-@@||www.dobreprogramy.pl^$generichide,badfilter
 @@||www.fbsbx.com^
 @@||www.gsxt.gov.cn^
 @@||www.literotica.com^$content
