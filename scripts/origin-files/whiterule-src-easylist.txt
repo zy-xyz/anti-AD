@@ -192,6 +192,7 @@
 @@||data.sec.miui.com^
 @@||data.service.paypal.com^
 @@||datawrapper.dwcdn.net^$jsinject
+@@||dcinside.com^$stealth
 @@||deadshot.io^$stealth
 @@||detectportal.firefox.com^$document
 @@||developers.google.com^

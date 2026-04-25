@@ -148,6 +148,7 @@
 ||analytics-*-nfl.yinzcam.com^
 ||analytics-ad-*.kgslb.com^
 ||analytics-rollout-*.amazonaws.com^
+||analytics-v*.eip.telegraph.co.uk^
 ||analytics.*.sky.com^
 ||analyzer*.fc2.com^
 ||ap*.jj20.com^
