@@ -525,6 +525,7 @@
 @@||wl.jd.com^
 @@||wp.pl^$script,image
 @@||wsr.pearsonvue.com^$extension
+@@||www.btv.bg^$elemhide,badfilter
 @@||www.fbsbx.com^
 @@||www.gsxt.gov.cn^
 @@||www.literotica.com^$content
