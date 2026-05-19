@@ -270,6 +270,7 @@
 ||eclog*-*.cafe24.com^$third-party
 ||ecm*.bdimg.com^
 ||ecommerce-events*.adscale.com^
+||eflbundles.*.com.tr^
 ||ej1*.online^
 ||etargetnet.*.hu^
 ||eum*.instana.io^
@@ -339,9 +340,11 @@
 ||impservice*.yodao.com^
 ||impservice*.youdao.com^
 ||inc*-rev.static-cloudflare.workers.dev^
+||inccrev*.static-cloudflare.workers.dev^
 ||increase*-rev.static-cloudflare.workers.dev^
 ||increase*rev.static-cloudflare.workers.dev^
 ||increase-rev*.static-cloudflare.workers.dev^
+||increv*.static-cloudflare.workers.dev^
 ||install*.zonastat.com^
 ||ipssn.haffo*.com^$third-party
 ||iptracker-lb-*.amazonaws.com^
