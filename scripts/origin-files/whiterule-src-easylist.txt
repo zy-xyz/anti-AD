@@ -61,6 +61,8 @@
 @@||ads.microsoft.com^$popup
 @@||ads.midwayusa.com^
 @@||ads.midwayusa.com^$popup
+@@||ads.openai.com^
+@@||ads.openai.com^$popup
 @@||ads.pinterest.com^
 @@||ads.pinterest.com^$popup
 @@||ads.privacy.qq.com^
@@ -295,6 +297,7 @@
 @@||insideruser.microsoft.com^
 @@||iufostworldcongress-singapore.com^
 @@||jccsmart.com^$stealth
+@@||jsxx.gds.edu.cn^$genericblock
 @@||kiplinger.112.2o7.net^
 @@||kobieta.wp.pl^$elemhide,badfilter
 @@||komputerswiat.pl^$generichide,badfilter
