@@ -219,6 +219,7 @@
 ||cj1*.online^
 ||cl*.k5a.io^
 ||cl*.k5a.io^$third-party
+||clickhouse-collector.*.prod.plat.agency^
 ||clickstream-*.homedepot.com^
 ||client.rum.*.amazonaws.com^
 ||clk.rtpdn*.com^
@@ -396,6 +397,7 @@
 ||mcs-*.lemon8-app.com^
 ||mcs-*.lemon8-app.us^
 ||mcs-*.tiktok.com^
+||mcs-normal-*.capcutapi.com^
 ||mcs-va-*.tiktokv.com^
 ||mcs.*.tiktok.com^
 ||mcs.*.tiktokv.com^
