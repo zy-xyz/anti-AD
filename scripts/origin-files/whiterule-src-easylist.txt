@@ -73,6 +73,8 @@
 @@||ads.spotify.com^$popup
 @@||ads.taboola.com^
 @@||ads.taboola.com^$popup
+@@||ads.temu.com^
+@@||ads.temu.com^$popup
 @@||ads.tiktok.com^$popup
 @@||ads.tiktok.com^$~3p
 @@||ads.tiktok.com^$~third-party
