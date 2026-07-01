@@ -536,6 +536,7 @@
 ||stats-*.p2pnow.ru^
 ||stats.*.ronghub.com^
 ||stats.*.rongnav.com^
+||stats.mapple.*^
 ||stats2.*.fdnames.com^
 ||stlog*-local.kakao.com^
 ||store.*.api.3g.youku.com^
