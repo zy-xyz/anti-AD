@@ -190,7 +190,6 @@
 ||bd*-ys.km.com^
 ||bdcpro*.techweb.com.cn^
 ||bdlm*.hc360.com^
-||beacon-*.helpscout.net^
 ||beacons*.gvt3.com^
 ||beehiiv-adnetwork-production.s*.amazonaws.com^
 ||bi-eventtracker-*.amazonaws.com^
@@ -407,7 +406,6 @@
 ||metrics*.fitanalytics.com^$third-party
 ||mf*.advantage.as^
 ||mf*.advantage.as^$third-party
-||mgbsdk*.matrix.easebar.com^
 ||minero-proxy-*.sh^
 ||minero-proxy-*.sh^$third-party
 ||minitds-*.info^
