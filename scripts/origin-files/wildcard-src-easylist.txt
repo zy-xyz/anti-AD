@@ -384,6 +384,7 @@
 ||logs.collector.*.cloud.solarwinds.com^
 ||logservice-*.platform.dbankcloud.cn^
 ||logstash-*.radio-canada.ca^
+||logws*.ati-host.net^
 ||lt*.tritondigital.com^
 ||maas-*.phunware.com^
 ||mads*z.com^
