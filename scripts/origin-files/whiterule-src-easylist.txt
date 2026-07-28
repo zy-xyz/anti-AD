@@ -235,7 +235,6 @@
 @@||facebook.com^$generichide,badfilter
 @@||faculty.uml.edu^$image,stylesheet
 @@||fakt.pl^$generichide,badfilter
-@@||fandom.com^$genericblock
 @@||fapcat.com^$~third-party
 @@||feed.mix.sina.com.cn^
 @@||filejoker.net^$image,~third-party
