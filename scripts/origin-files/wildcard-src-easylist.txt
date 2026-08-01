@@ -38,7 +38,6 @@
 ||*us*watcab*.blob.core.windows.net^
 ||163487*.qmgmw.com^
 ||24log.*^
-||8*.tianya.cn^
 ||a*.chajiaotong.com^
 ||a*.smlog.co.kr^
 ||a.streamoupload.*^$script
@@ -47,7 +46,6 @@
 ||abc.zgm*.com^$script
 ||ac*.786ip.com^
 ||ac*.faxingchina.com^
-||ac*.pingguolv.com^
 ||access*.tpns.tencent.com^
 ||access.pangolin-sdk-toutiao-*.com^
 ||acr-*-prd.samsungcloud.tv^
@@ -177,7 +175,6 @@
 ||attr-logs.*.amazonaws.com^
 ||auth-*.hismarttv.com^
 ||avts*.xyz^$documentument
-||avts*.xyz^$documentumentument
 ||ax.*.ifeng.com^
 ||banner*.kinogo.by^
 ||banner.*.tccapis.com^
@@ -187,7 +184,6 @@
 ||batchlogging*-eu.truecaller.com^
 ||batchlogging*-noneu.truecaller.com^
 ||bbangads.*.net^$third-party
-||bd*-ys.km.com^
 ||bdcpro*.techweb.com.cn^
 ||bdlm*.hc360.com^
 ||beacons*.gvt3.com^
@@ -197,16 +193,13 @@
 ||bjkedv*.xyz^
 ||bjsvp*.space^
 ||bkdp*.xyz^$documentument
-||bkdp*.xyz^$documentumentument
 ||block.s*block.com^
 ||block.s*block.com^$third-party
 ||broredir*s.site^
 ||browser-intake-*-datadoghq.com^
 ||btn.createsend*.com^$third-party
 ||buyu*9.com^$documentument
-||buyu*9.com^$documentumentument
 ||buyu9*.com^$documentument
-||buyu9*.com^$documentumentument
 ||c*hit.zerkalo.io^
 ||cas.*.criteo.com^
 ||cdn*.pdmntn.com^$third-party
@@ -259,7 +252,6 @@
 ||discovery-ios-*.ertelecom.ru^
 ||display-ad-*.kgslb.com^
 ||dj1*.online^
-||dm*.ppzuowen.com^
 ||dm*.yxlady.com^
 ||dm-*.toutiao.com^
 ||dn*.ixinwei.com^
@@ -315,7 +307,6 @@
 ||hba*.hepsiburada.com^
 ||hbbtv.*.de^
 ||hh*.huojiabeijing.org^$documentument
-||hh*.huojiabeijing.org^$documentumentument
 ||hhba0*kdh.com^
 ||hhba0*kdh.com^$script,xhr,3p
 ||hhba0*kdh.com^$script,xmlhttprequest,third-party
@@ -427,7 +418,6 @@
 ||mon-va*.capcutapi.com^
 ||ms*.applvn.com^
 ||msfd8mty4nzux.fua*.cc^$documentument
-||msfd8mty4nzux.fua*.cc^$documentumentument
 ||msg*.video.qiyi.com^
 ||mssdk*.capcutapi.com^
 ||mssdk*.zijieapi.com^
@@ -481,7 +471,6 @@
 ||quangcao-*.epicdn.me^
 ||query*.petametrics.com^
 ||qxig*.xyz^$documentument
-||qxig*.xyz^$documentumentument
 ||rb*.design.ru^
 ||reachableads-av.*.amazonaws.com^
 ||real*traf.ru^
@@ -503,7 +492,6 @@
 ||sam*.baby-kingdom.com^
 ||same*.stockstar.com^
 ||sd.s*dad.com^$documentument
-||sd.s*dad.com^$documentumentument
 ||sd.yhzzzs*.com^
 ||sdk-*.moengage.com^
 ||sdk.*.braze.com^$third-party
