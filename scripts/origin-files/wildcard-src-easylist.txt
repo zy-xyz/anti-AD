@@ -156,7 +156,6 @@
 ||api*.batmobil.net^
 ||api*.bidmachine.io^
 ||api*.moengage.com^
-||api-*.bidmachine.io^
 ||api-*.hismarttv.com^
 ||api-access.pangolin-sdk-toutiao-*.com^
 ||api.*.hismarttv.com^
