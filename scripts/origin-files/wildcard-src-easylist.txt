@@ -535,6 +535,7 @@
 ||t*.zcvh.net^
 ||tag-based.s3.*.amazonaws.com^
 ||tag-based.s3.*.amazonaws.com^$third-party
+||tag-v*.kuzen.io^
 ||tblog-*.kgslb.com^
 ||telemetry*.transcend.io^
 ||telemetry.*.pvp.net^
