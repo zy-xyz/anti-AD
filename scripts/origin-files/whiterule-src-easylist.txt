@@ -225,7 +225,6 @@
 @@||emathhelp.net^$csp
 @@||empflix.com^$removeparam
 @@||ens.nzz.ch^$~third-party
-@@||eporner.com^$~third-party
 @@||equifaxps.122.2o7.net^
 @@||esia.gosuslugi.ru^$stealth
 @@||eteknix.com^$generichide,badfilter
@@ -235,7 +234,6 @@
 @@||facebook.com^$generichide,badfilter
 @@||faculty.uml.edu^$image,stylesheet
 @@||fakt.pl^$generichide,badfilter
-@@||fapcat.com^$~third-party
 @@||feed.mix.sina.com.cn^
 @@||filejoker.net^$image,~third-party
 @@||files.1drv.com^
