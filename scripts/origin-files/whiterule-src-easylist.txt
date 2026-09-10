@@ -45,10 +45,13 @@
 @@||ads.atmosphere.copernicus.eu^$popup
 @@||ads.cdn.tvb.com^
 @@||ads.console.aliyun.com^
+@@||ads.cs.washington.edu^
+@@||ads.cs.washington.edu^$popup
 @@||ads.doordash.com^
 @@||ads.doordash.com^$popup
 @@||ads.elevateplatform.co.uk^
 @@||ads.elevateplatform.co.uk^$popup
+@@||ads.finance^
 @@||ads.finance^$popup
 @@||ads.google.com^
 @@||ads.google.com^$popup
@@ -489,7 +492,6 @@
 @@||tuhu.cn^
 @@||turramusic.com.au^$xmlhttprequest,elemhide,jsinject,extension
 @@||tv.bili96.co^
-@@||tv.kakao.com^$stealth
 @@||tvplayer.com^$stealth
 @@||tweaktown.com^$generichide,badfilter
 @@||twitch.tv^$websocket,permissions
