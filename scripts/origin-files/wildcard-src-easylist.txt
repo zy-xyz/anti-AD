@@ -578,6 +578,7 @@
 ||ulog.*.ksapisrv.com^
 ||ulog.*.kwai-pro.com^
 ||um*.com^$third-party
+||umami-*.sufrah.net^
 ||union*.365inews.com^
 ||us.*.qwadro.com^
 ||use-trk*.bluevoox.com^
