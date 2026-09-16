@@ -173,7 +173,7 @@
 ||atanx*.alicdn.com^
 ||attr-logs.*.amazonaws.com^
 ||auth-*.hismarttv.com^
-||avts*.xyz^$documentument
+||avts*.xyz^$document
 ||ax.*.ifeng.com^
 ||banner*.kinogo.by^
 ||banner.*.tccapis.com^
@@ -191,14 +191,14 @@
 ||bj*.9669.cn^
 ||bjkedv*.xyz^
 ||bjsvp*.space^
-||bkdp*.xyz^$documentument
+||bkdp*.xyz^$document
 ||block.s*block.com^
 ||block.s*block.com^$third-party
 ||broredir*s.site^
 ||browser-intake-*-datadoghq.com^
 ||btn.createsend*.com^$third-party
-||buyu*9.com^$documentument
-||buyu9*.com^$documentument
+||buyu*9.com^$document
+||buyu9*.com^$document
 ||c*hit.zerkalo.io^
 ||cas.*.criteo.com^
 ||cdn*.pdmntn.com^$third-party
@@ -305,7 +305,7 @@
 ||hads*s.com^
 ||hba*.hepsiburada.com^
 ||hbbtv.*.de^
-||hh*.huojiabeijing.org^$documentument
+||hh*.huojiabeijing.org^$document
 ||hhba0*kdh.com^
 ||hhba0*kdh.com^$script,xhr,3p
 ||hhba0*kdh.com^$script,xmlhttprequest,third-party
@@ -416,7 +416,7 @@
 ||mon-v*-boot.capcutapi.com^
 ||mon-va*.capcutapi.com^
 ||ms*.applvn.com^
-||msfd8mty4nzux.fua*.cc^$documentument
+||msfd8mty4nzux.fua*.cc^$document
 ||msg*.video.qiyi.com^
 ||mssdk*.capcutapi.com^
 ||mssdk*.zijieapi.com^
@@ -469,7 +469,7 @@
 ||qpb*.sohu.com^
 ||quangcao-*.epicdn.me^
 ||query*.petametrics.com^
-||qxig*.xyz^$documentument
+||qxig*.xyz^$document
 ||rb*.design.ru^
 ||reachableads-av.*.amazonaws.com^
 ||real*traf.ru^
@@ -490,7 +490,7 @@
 ||s*a.pstatp.com^
 ||sam*.baby-kingdom.com^
 ||same*.stockstar.com^
-||sd.s*dad.com^$documentument
+||sd.s*dad.com^$document
 ||sd.yhzzzs*.com^
 ||sdk-*.moengage.com^
 ||sdk.*.braze.com^$third-party
@@ -591,6 +591,7 @@
 ||v*.sitecounter.site^$third-party
 ||v.newsportal*.ru^
 ||v.tzbox*.xyz^
+||valentine.xhamster.*^
 ||vente-unique.*^
 ||vns86.oss-*.aliyuncs.com^
 ||vs*.bozhou666.com^$third-party
