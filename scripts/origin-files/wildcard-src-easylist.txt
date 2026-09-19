@@ -561,7 +561,6 @@
 ||tracking-*.trnox.com^
 ||tracking-v*.a.run.app^
 ||tracking.*.miui.com^
-||tracking.geo.*.amazonaws.com^
 ||trck.*.prod-na.turntable.sonic.advertising.amazon.dev^
 ||trk*.vidible.tv^
 ||tuiguang.*^
