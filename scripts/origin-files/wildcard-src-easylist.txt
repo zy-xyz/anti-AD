@@ -66,7 +66,7 @@
 ||ad-*.net^
 ||ad-host-backup-*.*.aliyuncs.com^
 ||ad-host-backup-*.aliyuncs.com^
-||ad-host-backup-*.s3.*.aliyuncs.com^
+||ad-host-backup-*.s3.*.amazonaws.com^
 ||ad.*.360.cn^
 ||ad.*.doubleclick.net^
 ||ad.*.xiaomi.com^
