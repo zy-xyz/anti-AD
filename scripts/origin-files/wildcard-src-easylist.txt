@@ -276,6 +276,7 @@
 ||fads*s.com^
 ||fads*z.com^
 ||fanpingbi*.gaokao.com^
+||faro-collector-*.grafana-ops.net^
 ||faro-collector-prod-*.grafana.net^
 ||firebaselogging-*.googleapis.com^
 ||fj*.baji*.com^$third-party
