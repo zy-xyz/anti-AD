@@ -1,3 +1,4 @@
+@@||archive.*^$removeparam
 @@||b24-*.bitrix24.ru^$stealth
 @@||b24-*.bitrix24.ru^$xmlhttprequest,elemhide,jsinject,extension
 @@||cdn*.porn300.com^

@@ -261,6 +261,7 @@
 @@||go.redirectingat.com^$document
 @@||gotunnel.org^
 @@||grandcentral.1plus1.video^$stealth
+@@||gyo.tc^$removeparam
 @@||h-adashx.ut.dingtalk.com^
 @@||hanjubaike.com^$script,~3p
 @@||hanjubaike.com^$script,~third-party
@@ -282,6 +283,7 @@
 @@||html-load.com^
 @@||hugo.sieradz.com.pl^$script
 @@||huntington.com^$document
+@@||hyatt.com^$extension
 @@||id.atlassian.com^$stealth
 @@||identity.mparticle.com^$xmlhttprequest
 @@||idos.idnes.cz^$csp
@@ -334,6 +336,7 @@
 @@||mediacdn.disqus.com^$document
 @@||mediamarkt.com.tr^$genericblock
 @@||mediamarkt.nl^$other
+@@||megalodon.jp^$removeparam
 @@||megaxh.com^$script,~third-party
 @@||meizu.coapi.moji.com^
 @@||messenger.com^$extension
@@ -514,6 +517,8 @@
 @@||walla.co.il^$csp
 @@||wan.douyu.com^
 @@||ware.shop.jd.com^$genericblock,generichide
+@@||warp.ndl.go.jp^$removeparam
+@@||wayback.archive-it.org^$removeparam
 @@||web.any.do^$document
 @@||webstatic.nero.com^
 @@||webtrack.dhlglobalmail.com^
