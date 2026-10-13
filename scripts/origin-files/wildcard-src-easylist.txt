@@ -148,6 +148,7 @@
 ||analytics-ad-*.kgslb.com^
 ||analytics-rollout-*.amazonaws.com^
 ||analytics-v*.eip.telegraph.co.uk^
+||analytics.*.adjust.com^
 ||analytics.*.sky.com^
 ||analyzer*.fc2.com^
 ||ap*.jj20.com^
@@ -168,7 +169,6 @@
 ||apple-*.le.com^
 ||applog*.matrix.easebar.com^
 ||as*.prog.hu^
-||asd8900.oss-*.aliyuncs.com^
 ||assoc-amazon.*^
 ||at*.doubanio.com^
 ||atanx*.alicdn.com^
@@ -344,7 +344,6 @@
 ||js.aiqiyi*.com^
 ||jtbo*.nqxvevk.cn^
 ||kbox-analytics-prod.s*.amazonaws.com^
-||ky891.oss-*.aliyuncs.com^
 ||lively-collect-elb-*.amazonaws.com^
 ||liveme-sensors-collect2-*.amazonaws.com^
 ||livetracker.*.pangea-cms.com^
@@ -594,7 +593,6 @@
 ||v.tzbox*.xyz^
 ||valentine.xhamster.*^
 ||vente-unique.*^
-||vns86.oss-*.aliyuncs.com^
 ||vs*.bozhou666.com^$third-party
 ||vs*.gzcu.u3.ucweb.com^
 ||w*.*skwai.com^
