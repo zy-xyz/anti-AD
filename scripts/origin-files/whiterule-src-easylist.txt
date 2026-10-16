@@ -134,6 +134,8 @@
 @@||app.plex.tv^$extension
 @@||app.powerbi.com^
 @@||app.sendgrid.com^$elemhide,jsinject
+@@||archivecaslytosk.onion^$removeparam
+@@||archiveiya74codqgiixo33q62qlrqtkgmcitqx5u2oeqnmn5bpcbiyd.onion^$removeparam
 @@||arstechnica.com^$generichide,badfilter
 @@||atozmath.com^$cookie
 @@||auth.gfx.ms^$document
