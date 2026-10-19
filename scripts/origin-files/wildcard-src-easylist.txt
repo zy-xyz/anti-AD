@@ -285,7 +285,6 @@
 ||flurry.agentportal-*.yahoodns.net^
 ||flurry.agentportal.*.yahoodns.net^
 ||fp-*it*.fengkongcloud.com^
-||fpb*.51edu.com^
 ||fra-*.braze.eu^
 ||gads*s.com^
 ||gads*z.com^
@@ -311,7 +310,6 @@
 ||hhba0*kdh.com^
 ||hhba0*kdh.com^$script,3p,xhr
 ||hhba0*kdh.com^$script,third-party,xmlhttprequest
-||hhba0*kdh.com^$script,xmlhttprequest,third-party
 ||hn-ping*.hashnode.com^
 ||host*.carl-ras.dk^
 ||host*.ncoi.nl^
@@ -614,14 +612,12 @@
 ||xdyn0*jy.com^
 ||xdyn0*jy.com^$script,3p,xhr
 ||xdyn0*jy.com^$script,third-party,xmlhttprequest
-||xdyn0*jy.com^$script,xmlhttprequest,third-party
 ||xlog*-*.tiktokv.com^
 ||xn--wxtr9fwyxk9c.*^
 ||xn--xhq9mt12cf5v.*^
 ||xscp0*xq.com^
 ||xscp0*xq.com^$script,3p,xhr
 ||xscp0*xq.com^$script,third-party,xmlhttprequest
-||xscp0*xq.com^$script,xmlhttprequest,third-party
 ||xxsmtz*.com^
 ||xy-*pcdn.msstatic.com^
 ||ya*.dwstatic.com^
