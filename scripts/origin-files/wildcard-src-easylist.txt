@@ -334,7 +334,7 @@
 ||ja*.apppure.net^
 ||ja*.gamersky.com^
 ||js*.abolezi.com^
-||js*.iislm.com^$third-party
+||js*.iislm*.com^$script,third-party
 ||js.*2023*.live^
 ||js.*2023*.xyz^
 ||js.aiqiyi*.com^
